@@ -1,0 +1,449 @@
+,Full_Location,Area,County,Cases,Geolocation,Latitude,Longitude,FIPS
+0,"San Diego, San Diego, California",San Diego,San Diego,649,"San Diego, San Diego County, California, United States of America",32.7174209,-117.16277140000001,06073
+1,"Long Beach, Los Angeles, California",Long Beach,Los Angeles,213,"Long Beach, Los Angeles County, California, United States of America",33.7690164,-118.1916048,06037
+2,"Melrose, Los Angeles, California",Melrose,Los Angeles,140,"Los Angeles, Los Angeles County, California, United States of America",34.0536909,-118.2427666,06037
+3,"Glendale, Los Angeles, California",Glendale,Los Angeles,129,"Glendale, Los Angeles County, California, United States of America",34.146941600000005,-118.24784709999999,06037
+4,"Santa Clarita, Los Angeles, California",Santa Clarita,Los Angeles,102,"Santa Clarita, Los Angeles County, California, United States of America",34.3916641,-118.54258600000001,06037
+5,"Hollywood, Los Angeles, California",Hollywood,Los Angeles,96,"Hollywood, Los Angeles, Los Angeles County, California, 90028-8127, United States of America",34.0980031,-118.32952320000001,06037
+6,"North Hollywood, Los Angeles, California",North Hollywood,Los Angeles,91,"North Hollywood, Los Angeles, Los Angeles County, California, 91601-3121, United States of America",34.1729044,-118.37403710000001,06037
+7,"Torrance, Los Angeles, California",Torrance,Los Angeles,86,"Torrance, Los Angeles County, California, United States of America",33.835849200000006,-118.34062879999999,06037
+8,"Chula Vista, San Diego, California",Chula Vista,San Diego,86,"Chula Vista, San Diego County, California, United States of America",32.6400541,-117.0841955,06073
+9,"Carson, Los Angeles, California",Carson,Los Angeles,83,"Carson, Los Angeles County, California, United States of America",33.832204299999994,-118.2517547,06037
+10,"West Hollywood, Los Angeles, California",West Hollywood,Los Angeles,83,"West Hollywood, Los Angeles County, California, United States of America",34.0923014,-118.36928940000001,06037
+11,"Anaheim, Orange, California",Anaheim,Orange,79,"Anaheim, Orange County, California, United States of America",33.8347516,-117.911732,06059
+12,"Irvine, Orange, California",Irvine,Orange,75,"Irvine, Orange County, California, United States of America",33.685696899999996,-117.82598190000002,06059
+13,"Moreno Valley, Riverside, California",Moreno Valley,Riverside,74,"Moreno Valley, Riverside County, California, United States of America",33.937517,-117.23059440000002,06065
+14,"Other/Unknown, San Diego, California",Other/Unknown,San Diego,73,,0.0,0.0,00000
+15,"Newport Beach, Orange, California",Newport Beach,Orange,73,"Newport Beach, Orange County, California, United States of America",33.6170092,-117.92944009999998,06059
+16,"Burbank, Los Angeles, California",Burbank,Los Angeles,70,"Burbank, Los Angeles County, California, United States of America",34.181648200000005,-118.3258554,06037
+17,"Yucaipa, San Bernardino, California",Yucaipa,San Bernardino,70,"Yucaipa, San Bernardino County, California, 92399, United States of America",34.033625,-117.0430865,06071
+18,"Inglewood, Los Angeles, California",Inglewood,Los Angeles,69,"Inglewood, Los Angeles County, California, United States of America",33.9562003,-118.353132,06037
+19,"Downey, Los Angeles, California",Downey,Los Angeles,68,"Downey, Los Angeles County, California, United States of America",33.942215000000004,-118.1235646,06037
+20,"Santa Monica, Los Angeles, California",Santa Monica,Los Angeles,68,"Santa Monica, Los Angeles County, California, United States of America",34.0250724,-118.4965129,06037
+21,"El Cajon, San Diego, California",El Cajon,San Diego,67,"El Cajon, San Diego County, California, United States of America",32.7947731,-116.96252690000001,06073
+22,"Beverly Hills, Los Angeles, California",Beverly Hills,Los Angeles,65,"Beverly Hills, Los Angeles County, California, United States of America",34.0696501,-118.3963062,06037
+23,"Redondo Beach, Los Angeles, California",Redondo Beach,Los Angeles,64,"Redondo Beach, Los Angeles County, California, United States of America",33.8455911,-118.38867659999998,06037
+24,"Other/Unknown, Orange, California",Other/Unknown,Orange,64,"& Other Stories, Bristol Street, Santa Ana Heights, Costa Mesa, Orange County, California, 92707, United States of America",33.690188299999996,-117.8882037,06059
+25,"Riverside, Riverside, California",Riverside,Riverside,63,"Riverside, Riverside County, California, United States of America",33.953354600000004,-117.39616229999999,06065
+26,"Sylmar, Los Angeles, California",Sylmar,Los Angeles,61,"Sylmar, Los Angeles, Los Angeles County, California, 91342-4119, United States of America",34.307625200000004,-118.44921480000001,06037
+27,"Huntington Beach, Orange, California",Huntington Beach,Orange,58,"Huntington Beach, Orange County, California, United States of America",33.6783336,-118.0000166,06059
+28,"Santa Ana, Orange, California",Santa Ana,Orange,58,"Santa Ana, Orange County, California, United States of America",33.7494951,-117.8732213,06059
+29,"Pasadena, Los Angeles, California",Pasadena,Los Angeles,58,"Pasadena, Los Angeles County, California, United States of America",34.14764520000001,-118.14447790000001,06037
+30,"Sherman Oaks, Los Angeles, California",Sherman Oaks,Los Angeles,56,"Sherman Oaks, Los Angeles, Los Angeles County, California, 91403, United States of America",34.1508718,-118.4489865,06037
+31,"Silver Lake, Los Angeles, California",Silver Lake,Los Angeles,55,"Silver Lake, Echo Park, Los Angeles, Los Angeles County, California, 90026-2106, United States of America",34.0896518,-118.26937350000001,06037
+32,"South Gate, Los Angeles, California",South Gate,Los Angeles,52,"South Gate, Los Angeles County, California, United States of America",33.9463456,-118.200981,06037
+33,"Lancaster, Los Angeles, California",Lancaster,Los Angeles,51,"Lancaster, Los Angeles County, California, United States of America",34.6981064,-118.13661529999999,06037
+34,"Norwalk, Los Angeles, California",Norwalk,Los Angeles,49,"Norwalk, Los Angeles County, California, United States of America",33.909280200000005,-118.0849169,06037
+35,"Brentwood, Los Angeles, California",Brentwood,Los Angeles,49,"Brentwood, Los Angeles, Los Angeles County, California, 90049-4013, United States of America",34.0521403,-118.4740699,06037
+36,"Palm Springs, Riverside, California",Palm Springs,Riverside,48,"Palm Springs, Riverside County, California, United States of America",33.8246269,-116.54030300000001,06065
+37,"Woodland Hills, Los Angeles, California",Woodland Hills,Los Angeles,47,"Woodland Hills, Los Angeles, Los Angeles County, California, 91364, United States of America",34.1684364,-118.6058382,06037
+38,"Simi Valley, Ventura, California",Simi Valley,Ventura,46,"Simi Valley, Ventura County, California, United States of America",34.2694474,-118.78148200000001,06111
+39,"Manhattan Beach, Los Angeles, California",Manhattan Beach,Los Angeles,46,"Manhattan Beach, Los Angeles County, California, United States of America",33.8915985,-118.39512409999999,06037
+40,"Santa Maria, Santa Barbara, California",Santa Maria,Santa Barbara,45,"Santa Maria, Santa Barbara County, California, United States of America",34.953129499999996,-120.4358577,06083
+41,"East Los Angeles, Los Angeles, California",East Los Angeles,Los Angeles,44,"East Los Angeles, Los Angeles County, California, United States of America",34.0239015,-118.17201570000002,06037
+42,"Temecula, Riverside, California",Temecula,Riverside,44,"Temecula, Riverside County, California, United States of America",33.4946353,-117.14736609999999,06065
+43,"Indio, Riverside, California",Indio,Riverside,44,"Indio, Riverside County, California, United States of America",33.71928079999999,-116.2188054,06065
+44,"Corona, Riverside, California",Corona,Riverside,42,"Corona, Riverside County, California, United States of America",33.8752945,-117.56644490000001,06065
+45,"Palm Desert, Riverside, California",Palm Desert,Riverside,42,"Palm Desert, Riverside County, California, United States of America",33.7288179,-116.38257109999999,06065
+46,"Palms, Los Angeles, California",Palms,Los Angeles,41,"Palms, Los Angeles, Los Angeles County, California, United States of America",34.024732799999995,-118.4116152,06037
+47,"Fontana, San Bernardino, California",Fontana,San Bernardino,40,"Fontana, San Bernardino County, California, United States of America",34.0922335,-117.435048,06071
+48,"Oxnard, Ventura, California",Oxnard,Ventura,40,"Oxnard, Ventura County, California, United States of America",34.1976308,-119.18038179999999,06111
+49,"Carlsbad, San Diego, California",Carlsbad,San Diego,39,"Carlsbad, San Diego County, California, United States of America",33.158093300000004,-117.3505966,06073
+50,"Hollywood Hills, Los Angeles, California",Hollywood Hills,Los Angeles,39,"Hollywood Hills, Los Angeles, Los Angeles County, California, 90068-1106, United States of America",34.1311792,-118.33554740000001,06037
+51,"Murrieta, Riverside, California",Murrieta,Riverside,39,"Murrieta, Riverside County, California, United States of America",33.560832,-117.2106564,06065
+52,"Encino, Los Angeles, California",Encino,Los Angeles,39,"Encino, Los Angeles, Los Angeles County, California, 91316-3402, United States of America",34.1591324,-118.50161659999999,06037
+53,"Hawthorne, Los Angeles, California",Hawthorne,Los Angeles,39,"Hawthorne, Los Angeles County, California, United States of America",33.9188589,-118.34832560000001,06037
+54,"Reseda, Los Angeles, California",Reseda,Los Angeles,38,"Reseda, Los Angeles, Los Angeles County, California, 91335-2819, United States of America",34.200078399999995,-118.53698840000001,06037
+55,"Hancock Park, Los Angeles, California",Hancock Park,Los Angeles,38,"Hancock Park, Los Angeles, Los Angeles County, California, United States of America",34.0736782,-118.33505509999999,06037
+56,"Palmdale, Los Angeles, California",Palmdale,Los Angeles,37,"Palmdale, Los Angeles County, California, United States of America",34.5793131,-118.1171108,06037
+57,"Boyle Heights, Los Angeles, California",Boyle Heights,Los Angeles,37,"Boyle Heights, Los Angeles, Los Angeles County, California, United States of America",34.0436892,-118.20976840000002,06037
+58,"Tarzana, Los Angeles, California",Tarzana,Los Angeles,37,"Tarzana, Los Angeles, Los Angeles County, California, 91356, United States of America",34.171443599999996,-118.54297890000001,06037
+59,"Lynwood, Los Angeles, California",Lynwood,Los Angeles,37,"Lynwood, Los Angeles County, California, United States of America",33.924831,-118.2024154,06037
+60,"San Clemente, Orange, California",San Clemente,Orange,37,"San Clemente, Orange County, California, United States of America",33.4270275,-117.6124179,06059
+61,"Van Nuys, Los Angeles, California",Van Nuys,Los Angeles,36,"Van Nuys, Los Angeles, Los Angeles County, California, 91401-2649, United States of America",34.1866581,-118.448729,06037
+62,"Florence-Firestone, Los Angeles, California",Florence-Firestone,Los Angeles,35,"Florence-Firestone, Firestone Park, Los Angeles County, California, 90001, United States of America",33.9674263,-118.2433068,06037
+63,"Compton, Los Angeles, California",Compton,Los Angeles,34,"Compton, Los Angeles County, California, United States of America",33.894927,-118.226624,06037
+64,"Panorama City, Los Angeles, California",Panorama City,Los Angeles,33,"Panorama City, Los Angeles, Los Angeles County, California, 91402, United States of America",34.2242902,-118.44537450000001,06037
+65,"Thousand Oaks, Ventura, California",Thousand Oaks,Ventura,33,"Thousand Oaks, Ventura County, California, United States of America",34.17142715,-118.91058772974444,06111
+66,"Koreatown, Los Angeles, California",Koreatown,Los Angeles,32,"Koreatown, Los Angeles, Los Angeles County, California, 90005, United States of America",34.061734200000004,-118.3053732,06037
+67,"Menifee, Riverside, California",Menifee,Riverside,32,"Menifee, Sun City, Riverside County, California, 92584, United States of America",33.68644320000001,-117.1770437,06065
+68,"Bellflower, Los Angeles, California",Bellflower,Los Angeles,32,"Bellflower, Los Angeles County, California, 90706, United States of America",33.8825705,-118.1167679,06037
+69,"Canoga Park, Los Angeles, California",Canoga Park,Los Angeles,32,"Canoga Park, Los Angeles, Los Angeles County, California, 91303, United States of America",34.2010776,-118.5978259,06037
+70,"Laguna Beach, Orange, California",Laguna Beach,Orange,32,"Laguna Beach, Orange County, California, United States of America",33.542697499999996,-117.78536650000001,06059
+71,"Santa Barbara, Santa Barbara, California",Santa Barbara,Santa Barbara,31,"Santa Barbara, Santa Barbara County, California, United States of America",34.4221319,-119.7026673,06083
+72,"Perris, Riverside, California",Perris,Riverside,31,"Perris, Riverside County, California, United States of America",33.7825194,-117.22864779999999,06065
+73,"Pico Rivera, Los Angeles, California",Pico Rivera,Los Angeles,31,"Pico Rivera, Los Angeles County, California, 90660, United States of America",33.9830688,-118.09673500000001,06037
+74,"Westlake, Los Angeles, California",Westlake,Los Angeles,31,"Westlake, Los Angeles, Los Angeles County, California, United States of America",34.0629226,-118.27282040000001,06037
+75,"Camarillo, Ventura, California",Camarillo,Ventura,30,"Camarillo, Ventura County, California, United States of America",34.2164099,-119.03765729999999,06111
+76,"Glassell Park, Los Angeles, California",Glassell Park,Los Angeles,30,"Glassell Park, Mount Washington, Los Angeles, Los Angeles County, California, 90065, United States of America",34.1161201,-118.22896270000001,06037
+77,"Gardena, Los Angeles, California",Gardena,Los Angeles,30,"Gardena, Los Angeles County, California, United States of America",33.8963593,-118.3053037,06037
+78,"Valley Village, Los Angeles, California",Valley Village,Los Angeles,30,"Valley Village, Los Angeles, Los Angeles County, California, 91607, United States of America",34.16371470000001,-118.3965758,06037
+79,"Pacoima, Los Angeles, California",Pacoima,Los Angeles,30,"Pacoima, Los Angeles, Los Angeles County, California, 91331-2536, United States of America",34.262502500000004,-118.427027,06037
+80,"West Los Angeles, Los Angeles, California",West Los Angeles,Los Angeles,29,"West Los Angeles, Los Angeles, Los Angeles County, California, 90025-9998, United States of America",34.0463986,-118.44813500000001,06037
+81,"Lakewood, Los Angeles, California",Lakewood,Los Angeles,29,"Lakewood, Los Angeles County, California, United States of America",33.8503463,-118.11719140000001,06037
+82,"Lompoc, Santa Barbara, California",Lompoc,Santa Barbara,29,"Lompoc, Santa Barbara County, California, 93436, United States of America",34.6391501,-120.4579409,06083
+83,"Winnetka, Los Angeles, California",Winnetka,Los Angeles,29,"Winnetka, Los Angeles, Los Angeles County, California, 91306, United States of America",34.2058826,-118.57093400000001,06037
+84,"Oceanside, San Diego, California",Oceanside,San Diego,29,"Oceanside, San Diego County, California, United States of America",33.1958696,-117.3794834,06073
+85,"Rancho Palos Verdes, Los Angeles, California",Rancho Palos Verdes,Los Angeles,28,"Rancho Palos Verdes, Los Angeles County, California, 90274, United States of America",33.7483311,-118.3707683,06037
+86,"Rancho Cucamonga, San Bernardino, California",Rancho Cucamonga,San Bernardino,28,"Rancho Cucamonga, San Bernardino County, California, United States of America",34.1033192,-117.5751735,06071
+87,"Florence-Firestone, Los Angeles, California",Florence-Firestone,Los Angeles,28,"Florence-Firestone, Firestone Park, Los Angeles County, California, 90001, United States of America",33.9674263,-118.2433068,06037
+88,"Exposition Park, Los Angeles, California",Exposition Park,Los Angeles,28,"Exposition Park, Los Angeles, Los Angeles County, California, United States of America",34.01365405,-118.28721058194557,06037
+89,"Spring Valley, San Diego, California",Spring Valley,San Diego,27,"Spring Valley, Avocado Boulevard, Calavo Gardens, San Diego County, California, 91978, United States of America",32.729639500000005,-116.9668617593562,06073
+90,"Granada Hills, Los Angeles, California",Granada Hills,Los Angeles,27,"Granada Hills, Los Angeles, Los Angeles County, California, United States of America",34.26615579999999,-118.5174342,06037
+91,"Encinitas, San Diego, California",Encinitas,San Diego,27,"Encinitas, San Diego County, California, United States of America",33.0369867,-117.2919818,06073
+92,"Del Rey, Los Angeles, California",Del Rey,Los Angeles,27,"Del Rey, Los Angeles, Los Angeles County, California, United States of America",33.9896527,-118.4243437,06037
+93,"Orange, Orange, California",Orange,Orange,27,"Orange, Orange County, California, United States of America",33.787256799999994,-117.8503088,06059
+94,"West Vernon, Los Angeles, California",West Vernon,Los Angeles,27,"Vernon, Los Angeles County, California, 90058, United States of America",34.007135,-118.22525,06037
+95,"Escondido, San Diego, California",Escondido,San Diego,27,"Escondido, San Diego County, California, United States of America",33.1216751,-117.08148490000002,06073
+96,"Westwood, Los Angeles, California",Westwood,Los Angeles,27,"Westwood, Los Angeles, Los Angeles County, California, United States of America",34.066894700000006,-118.43994479999999,06037
+97,"Redlands, San Bernardino, California",Redlands,San Bernardino,27,"Redlands, San Bernardino County, California, United States of America",34.055735,-117.1888961,06071
+98,"Carthay, Los Angeles, California",Carthay,Los Angeles,26,"Carthay, Los Angeles, Los Angeles County, California, United States of America",34.061121299999996,-118.3672997,06037
+99,"Culver City, Los Angeles, California",Culver City,Los Angeles,26,"Culver City, Los Angeles County, California, United States of America",34.021122399999996,-118.3964665,06037
+100,"Huntington Park, Los Angeles, California",Huntington Park,Los Angeles,26,"Huntington Park, Los Angeles County, California, 90255, United States of America",33.982704299999995,-118.21203429999998,06037
+101,"San Pedro, Los Angeles, California",San Pedro,Los Angeles,26,"San Pedro, Los Angeles, Los Angeles County, California, 90731, United States of America",33.7358518,-118.2922934,06037
+102,"Pacific Palisades, Los Angeles, California",Pacific Palisades,Los Angeles,26,"Pacific Palisades, Riviera, Los Angeles, Los Angeles County, California, 90272-3719, United States of America",34.0480643,-118.5264706,06037
+103,"Yorba Linda, Orange, California",Yorba Linda,Orange,26,"Yorba Linda, Orange County, California, United States of America",33.8901096,-117.8249705,06059
+104,"Venice, Los Angeles, California",Venice,Los Angeles,25,"Venice, Los Angeles, Los Angeles County, California, United States of America",33.995044,-118.4668875,06037
+105,"Buena Park, Orange, California",Buena Park,Orange,25,"Buena Park, Orange County, California, United States of America",33.870413,-117.9962165,06059
+106,"Mar Vista, Los Angeles, California",Mar Vista,Los Angeles,25,"Mar Vista, Los Angeles, Los Angeles County, California, United States of America",34.0037605,-118.43916409999999,06037
+107,"Eastvale, Riverside, California",Eastvale,Riverside,25,"Eastvale, Riverside County, California, 91752, United States of America",33.9766799,-117.55984440000002,06065
+108,"Altadena, Los Angeles, California",Altadena,Los Angeles,25,"Altadena, Los Angeles County, California, 91001, United States of America",34.1863161,-118.13523290000002,06037
+109,"Lake Balboa, Los Angeles, California",Lake Balboa,Los Angeles,25,"Lake Balboa, Launch Ramp, Encino, Los Angeles, Los Angeles County, California, 91316-3402, United States of America",34.1811656,-118.49523600143313,06037
+110,"Beverly Crest, Los Angeles, California",Beverly Crest,Los Angeles,25,"Beverly Crest, Los Angeles, Los Angeles County, California, 90210-1054, United States of America",34.1167701,-118.43226070000001,06037
+111,"Temple-Beaudry, Los Angeles, California",Temple-Beaudry,Los Angeles,24,"Temple & Beaudry, Temple Street, Downtown, Los Angeles, Los Angeles County, California, 90012-2410, United States of America",34.062884600000004,-118.25125290000001,06037
+112,"Westchester, Los Angeles, California",Westchester,Los Angeles,24,"Westchester, Los Angeles, Los Angeles County, California, United States of America",33.9540977,-118.40004679999998,06037
+113,"Chatsworth, Los Angeles, California",Chatsworth,Los Angeles,24,"Chatsworth, Los Angeles, Los Angeles County, California, United States of America",34.2595715,-118.6023247,06037
+114,"Central, Los Angeles, California",Central,Los Angeles,24,"California, 1st Avenue, East La Mirada, Los Angeles County, California, 90604, United States of America",33.928943100000005,-117.98293020000001,06037
+115,"Pomona, Los Angeles, California",Pomona,Los Angeles,24,"Pomona, Los Angeles County, California, United States of America",34.05538129999999,-117.75174960000001,06037
+116,"Wilshire Center, Los Angeles, California",Wilshire Center,Los Angeles,23,"The Wilshire, Wilshire Boulevard, Westwood, Los Angeles, Los Angeles County, California, 90024, United States of America",34.06151465,-118.43277116196552,06037
+117,"Century City, Los Angeles, California",Century City,Los Angeles,23,"Century City, Los Angeles, Los Angeles County, California, 90067, United States of America",34.057426299999996,-118.4147267,06037
+118,"Whittier, Los Angeles, California",Whittier,Los Angeles,23,"Whittier, Los Angeles County, California, United States of America",33.9708782,-118.0308396,06037
+119,"Paramount, Los Angeles, California",Paramount,Los Angeles,23,"Paramount, Los Angeles County, California, United States of America",33.898917,-118.17100500000001,06037
+120,"Crestview, Los Angeles, California",Crestview,Los Angeles,23,"Crestview Court, Lancaster, Los Angeles County, California, 93535, United States of America",34.6944191,-118.1005125,06037
+121,"Northridge, Los Angeles, California",Northridge,Los Angeles,23,"Northridge, Los Angeles, Los Angeles County, California, 91324, United States of America",34.2345615,-118.53693159999999,06037
+122,"Palos Verdes Estates, Los Angeles, California",Palos Verdes Estates,Los Angeles,23,"Palos Verdes Estates, Los Angeles County, California, United States of America",33.7872386,-118.40181299999999,06037
+123,"North Hills, Los Angeles, California",North Hills,Los Angeles,22,"North Hills, Los Angeles, Los Angeles County, California, 91343, United States of America",34.2429575,-118.4854081,06037
+124,"Mission Viejo, Orange, California",Mission Viejo,Orange,22,"Mission Viejo, Orange County, California, United States of America",33.5965685,-117.659405,06059
+125,"South Park, Los Angeles, California",South Park,Los Angeles,22,"South Park, Los Angeles, Los Angeles County, California, United States of America",33.9959019,-118.2697722,06037
+126,"Athens-Westmont, Los Angeles, California",Athens-Westmont,Los Angeles,22,,0.0,0.0,00000
+127,"San Bernardino, San Bernardino, California",San Bernardino,San Bernardino,22,"San Bernardino, San Bernardino County, California, United States of America",34.1083449,-117.2897652,06071
+128,"La Quinta, Riverside, California",La Quinta,Riverside,22,"La Quinta, Highway 111, Indian Wells, Riverside County, California, 92210, United States of America",33.66365425,-116.27770251129586,06065
+129,"Coachella, Riverside, California",Coachella,Riverside,21,"Coachella, Sundown Lane, Sandy Korner, Coachella, Riverside County, California, 92236, United States of America",33.68656595,-116.15327749528778,06065
+130,"Garden Grove, Orange, California",Garden Grove,Orange,21,"Garden Grove, Orange County, California, United States of America",33.7746292,-117.9463717,06059
+131,"Cathedral City, Riverside, California",Cathedral City,Riverside,21,"Cathedral City, Long Canyon Road, Riverside County, California, United States of America",33.822998049999995,-116.46687024271161,06065
+132,"Pico-Union, Los Angeles, California",Pico-Union,Los Angeles,21,"Pico-Union, Los Angeles, Los Angeles County, California, United States of America",34.0465669,-118.28789420000001,06037
+133,"Alhambra, Los Angeles, California",Alhambra,Los Angeles,21,"Alhambra, Los Angeles County, California, United States of America",34.093042,-118.12706000000001,06037
+134,"Mid-city, Los Angeles, California",Mid-city,Los Angeles,21,"Mid-City, Los Angeles, Los Angeles County, California, United States of America",34.0415271,-118.3603703,06037
+135,"Ventura, Ventura, California",Ventura,Ventura,21,"Ventura, Ventura County, California, United States of America",34.3435092,-119.29560423163716,06111
+136,"Valley Glen, Los Angeles, California",Valley Glen,Los Angeles,21,"Valley Glen, Los Angeles, Los Angeles County, California, 91607, United States of America",34.182637899999996,-118.41386659999999,06037
+137,"Vernon Central, Los Angeles, California",Vernon Central,Los Angeles,21,"Vernon, Los Angeles County, California, 90058, United States of America",34.007135,-118.22525,06037
+138,"Eagle Rock, Los Angeles, California",Eagle Rock,Los Angeles,21,"Eagle Rock, Los Angeles, Los Angeles County, California, United States of America",34.1366877,-118.20767959999999,06037
+139,"West Adams, Los Angeles, California",West Adams,Los Angeles,21,"West Adams, Los Angeles, Los Angeles County, California, 90016, United States of America",34.0294356,-118.35248329999999,06037
+140,"Studio City, Los Angeles, California",Studio City,Los Angeles,21,"Studio City, Valley Village, Los Angeles, Los Angeles County, California, 91604, United States of America",34.148398900000004,-118.39618770000001,06037
+141,"Laguna Niguel, Orange, California",Laguna Niguel,Orange,21,"Laguna Niguel, Orange County, California, 92677, United States of America",33.5225261,-117.70755259999999,06059
+142,"Porter Ranch, Los Angeles, California",Porter Ranch,Los Angeles,21,"Porter Ranch, Los Angeles, Los Angeles County, California, United States of America",34.2818164,-118.56127140000001,06037
+143,"Bell, Los Angeles, California",Bell,Los Angeles,20,"Bell, Los Angeles County, California, United States of America",33.9747806,-118.1866361,06037
+144,"Cerritos, Los Angeles, California",Cerritos,Los Angeles,20,"Cerritos, Los Angeles County, California, United States of America",33.8644291,-118.05393229999999,06037
+145,"Calabasas, Los Angeles, California",Calabasas,Los Angeles,20,"Calabasas, Los Angeles County, California, United States of America",34.144664299999995,-118.6440973,06037
+146,"Baldwin Hills, Los Angeles, California",Baldwin Hills,Los Angeles,20,"Baldwin Hills Mall, Baldwin Hills/Crenshaw, Los Angeles, Los Angeles County, California, United States of America",34.01098865,-118.33707093083645,06037
+147,"West Carson, Los Angeles, California",West Carson,Los Angeles,20,"West Carson, Los Angeles County, California, United States of America",33.8216836,-118.29257220000001,06037
+148,"South Carthay, Los Angeles, California",South Carthay,Los Angeles,20,"South Carthay, Los Angeles, Los Angeles County, California, 90064, United States of America",34.056121399999995,-118.37341090000001,06037
+149,"Lake Elsinore, Riverside, California",Lake Elsinore,Riverside,20,"Lake Elsinore, Riverside County, California, United States of America",33.668077200000006,-117.3272615,06065
+150,"Orcutt, Santa Barbara, California",Orcutt,Santa Barbara,19,"Orcutt, Santa Barbara County, California, 93455, United States of America",34.8650717,-120.4366904,06083
+151,"Placentia, Orange, California",Placentia,Orange,19,"Placentia, Orange County, California, United States of America",33.8714814,-117.8617337,06059
+152,"Fullerton, Orange, California",Fullerton,Orange,19,"Fullerton, Orange County, California, United States of America",33.870821500000005,-117.9294165,06059
+153,"Downtown, Los Angeles, California",Downtown,Los Angeles,19,"Downtown, Los Angeles, Los Angeles County, California, United States of America",34.0428494,-118.24767320000001,06037
+154,"Los Feliz, Los Angeles, California",Los Feliz,Los Angeles,19,"Los Feliz, East Hollywood, Los Angeles, Los Angeles County, California, United States of America",34.1100408,-118.2889236409372,06037
+155,"Wilmington, Los Angeles, California",Wilmington,Los Angeles,19,"Wilmington, Los Angeles, Los Angeles County, California, 90744-4522, United States of America",33.780018,-118.26257109999999,06037
+156,"Highland Park, Los Angeles, California",Highland Park,Los Angeles,19,"Highland Park, Los Angeles, Los Angeles County, California, United States of America",34.1099469,-118.1969828,06037
+157,"Banning, Riverside, California",Banning,Riverside,19,"Banning, Riverside County, California, 92220, United States of America",33.9255685,-116.875289,06065
+158,"Harbor City, Los Angeles, California",Harbor City,Los Angeles,19,"Harbor City, Los Angeles, Los Angeles County, California, 90710-2805, United States of America",33.797282200000005,-118.30047169999999,06037
+159,"Ontario, San Bernardino, California",Ontario,San Bernardino,19,"Ontario, San Bernardino County, California, United States of America",34.065846,-117.6484304,06071
+160,"Cypress, Orange, California",Cypress,Orange,18,"Cypress, Orange County, California, 90630, United States of America",33.8248235,-118.0399368,06059
+161,"El Monte, Los Angeles, California",El Monte,Los Angeles,18,"El Monte, Los Angeles County, California, 91731, United States of America",34.0751571,-118.036849,06037
+162,"Costa Mesa, Orange, California",Costa Mesa,Orange,18,"Costa Mesa, Orange County, California, United States of America",33.6633386,-117.90331699999999,06059
+163,"El Sereno, Los Angeles, California",El Sereno,Los Angeles,18,"El Sereno, Los Angeles, Los Angeles County, California, United States of America",34.0811213,-118.17784950000001,06037
+164,"Rancho Mirage, Riverside, California",Rancho Mirage,Riverside,18,"Rancho Mirage, Riverside County, California, United States of America",33.763346000000006,-116.4228596,06065
+165,"Agoura Hills, Los Angeles, California",Agoura Hills,Los Angeles,18,"Agoura Hills, Los Angeles County, California, 91301, United States of America",34.147909999999996,-118.76570420000002,06037
+166,"Harbor Gateway, Los Angeles, California",Harbor Gateway,Los Angeles,18,"Harbor Gateway, Los Angeles County, California, United States of America",33.8542249,-118.29921979999999,06037
+167,"Bel Air, Los Angeles, California",Bel Air,Los Angeles,18,"Bel-Air, Los Angeles, Los Angeles County, California, United States of America",34.0988833,-118.4598811,06037
+168,"West Hills, Los Angeles, California",West Hills,Los Angeles,18,"West Hills, Los Angeles, Los Angeles County, California, 91307, United States of America",34.2032325,-118.645476,06037
+169,"Covina, Los Angeles, California",Covina,Los Angeles,18,"Covina, Los Angeles County, California, United States of America",34.0877926,-117.8891164,06037
+170,"National City, San Diego, California",National City,San Diego,18,"National City, San Diego County, California, 91950, United States of America",32.6781085,-117.0991967,06073
+171,"La Mesa, San Diego, California",La Mesa,San Diego,18,"La Mesa, San Diego County, California, United States of America",32.7678288,-117.02308390000002,06073
+172,"Sun Valley, Los Angeles, California",Sun Valley,Los Angeles,18,"Sun Valley, North Hollywood, Los Angeles, Los Angeles County, California, 91352, United States of America",34.2175042,-118.37035759999999,06037
+173,"Hacienda Heights, Los Angeles, California",Hacienda Heights,Los Angeles,17,"Hacienda Heights, Los Angeles County, California, 91745, United States of America",33.993067700000005,-117.96867549999999,06037
+174,"Century Palms/Cove, Los Angeles, California",Century Palms/Cove,Los Angeles,17,,0.0,0.0,00000
+175,"Beverlywood, Los Angeles, California",Beverlywood,Los Angeles,17,"Beverlywood, Los Angeles, Los Angeles County, California, United States of America",34.0466335,-118.39503799999999,06037
+176,"Leimert Park, Los Angeles, California",Leimert Park,Los Angeles,17,"Leimert Park, Los Angeles, Los Angeles County, California, 90008, United States of America",34.007702,-118.33206270000001,06037
+177,"Miracle Mile, Los Angeles, California",Miracle Mile,Los Angeles,17,,0.0,0.0,00000
+178,"Montebello, Los Angeles, California",Montebello,Los Angeles,17,"Montebello, Los Angeles County, California, United States of America",34.0159398,-118.111975,06037
+179,"Hermosa Beach, Los Angeles, California",Hermosa Beach,Los Angeles,17,"Hermosa Beach, Los Angeles County, California, 90254, United States of America",33.86428,-118.39591000000001,06037
+180,"Vista, San Diego, California",Vista,San Diego,17,"Vista, San Diego County, California, United States of America",33.2000368,-117.2425355,06073
+181,"San Marcos, San Diego, California",San Marcos,San Diego,17,"San Marcos, San Diego County, California, United States of America",33.1433723,-117.1661449,06073
+182,"East Hollywood, Los Angeles, California",East Hollywood,Los Angeles,16,"East Hollywood, Los Angeles, Los Angeles County, California, 90029-2631, United States of America",34.0904277,-118.2966254,06037
+183,"Hemet, Riverside, California",Hemet,Riverside,16,"Hemet, Riverside County, California, United States of America",33.778562550000004,-117.03578886849186,06065
+184,"Beaumont, Riverside, California",Beaumont,Riverside,16,"Beaumont, Riverside County, California, 92223, United States of America",33.929460600000006,-116.977248,06065
+185,"San Juan Capistrano, Orange, California",San Juan Capistrano,Orange,16,"San Juan Capistrano, Orange County, California, United States of America",33.5016932,-117.66255090000001,06059
+186,"Lake Forest, Orange, California",Lake Forest,Orange,16,"Lake Forest, Orange County, California, United States of America",33.6469261,-117.6859213,06059
+187,"Little Armenia, Los Angeles, California",Little Armenia,Los Angeles,16,"Little Armenia, East Hollywood, Los Angeles, Los Angeles County, California, 90029-2631, United States of America",34.0981716,-118.30449660000001,06037
+188,"Little Bangladesh, Los Angeles, California",Little Bangladesh,Los Angeles,16,,0.0,0.0,00000
+189,"Harvard Park, Los Angeles, California",Harvard Park,Los Angeles,16,"Harvard Park, Los Angeles, Los Angeles County, California, United States of America",33.9839471,-118.30462279999999,06037
+190,"University Park, Los Angeles, California",University Park,Los Angeles,16,"University Park, Los Angeles, Los Angeles County, California, United States of America",34.027449,-118.2839493,06037
+191,"La Mirada, Los Angeles, California",La Mirada,Los Angeles,15,"La Mirada, Los Angeles County, California, United States of America",33.906097100000004,-118.0107092,06037
+192,"South Whittier, Los Angeles, California",South Whittier,Los Angeles,15,"South Whittier, Los Angeles County, California, 90605, United States of America",33.9435081,-118.03478270000001,06037
+193,"Cudahy, Los Angeles, California",Cudahy,Los Angeles,15,"Cudahy, Los Angeles County, California, United States of America",33.9620584,-118.1835395,06037
+194,"Santee, San Diego, California",Santee,San Diego,15,"Santee, San Diego County, California, United States of America",32.8383828,-116.97391670000002,06073
+195,"Highland, San Bernardino, California",Highland,San Bernardino,15,"Highland, San Bernardino County, California, United States of America",34.1283442,-117.2086513,06071
+196,"Chino Hills, San Bernardino, California",Chino Hills,San Bernardino,15,"Chino Hills, San Bernardino County, California, 91709, United States of America",33.992680299999996,-117.760056,06071
+197,"Arleta, Los Angeles, California",Arleta,Los Angeles,15,"Arleta, Los Angeles, Los Angeles County, California, United States of America",34.2413266,-118.4322047,06037
+198,"North County, Santa Barbara, California",North County,Santa Barbara,15,"Santa Barbara, Santa Barbara County, California, United States of America",34.4221319,-119.7026673,06083
+199,"Wildomar, Riverside, California",Wildomar,Riverside,15,"Wildomar, Wildomar Truck Trail, La Cresta, Riverside County, California, 92595, United States of America",33.61603035,-117.25605451906164,06065
+200,"Lennox, Los Angeles, California",Lennox,Los Angeles,15,"Lennox, Los Angeles County, California, United States of America",33.9391385,-118.35166969999999,06037
+201,"Maywood, Los Angeles, California",Maywood,Los Angeles,15,"Maywood, Los Angeles County, California, 90270, United States of America",33.9866807,-118.185349,06037
+202,"Tustin, Orange, California",Tustin,Orange,15,"Tustin, Orange County, California, United States of America",33.7458511,-117.82616599999999,06059
+203,"Monterey Park, Los Angeles, California",Monterey Park,Los Angeles,15,"Monterey Park, Los Angeles County, California, United States of America",34.051522,-118.129807,06037
+204,"Watts, Los Angeles, California",Watts,Los Angeles,15,"Watts, Los Angeles, Los Angeles County, California, 90002-3024, United States of America",33.9405674,-118.24284850000001,06037
+205,"Rancho Santa Fe, San Diego, California",Rancho Santa Fe,San Diego,14,"Rancho Santa Fe, La Jacaranda, Olivenhain, Rancho Santa Fe, San Diego County, California, 92067, United States of America",33.024194949999995,-117.19815158464623,06073
+206,"Moorpark, Ventura, California",Moorpark,Ventura,14,"Moorpark, Ventura County, California, 93021, United States of America",34.285558,-118.8820414,06111
+207,"Arcadia, Los Angeles, California",Arcadia,Los Angeles,14,"Arcadia, Los Angeles County, California, United States of America",34.136207500000005,-118.0401497,06037
+208,"Upland, San Bernardino, California",Upland,San Bernardino,14,"Upland, San Bernardino County, California, United States of America",34.09751,-117.64838759999999,06071
+209,"Hyde Park, Los Angeles, California",Hyde Park,Los Angeles,14,"Hyde Park, Manchester Square, Los Angeles, Los Angeles County, California, 90043, United States of America",33.9805691,-118.3306308,06037
+210,"Unknown, San Bernardino, California",Unknown,San Bernardino,14,"San Bernardino, San Bernardino County, California, United States of America",34.1083449,-117.2897652,06071
+211,"La Canada Flintridge, Los Angeles, California",La Canada Flintridge,Los Angeles,14,"La Cañada Flintridge, Los Angeles County, California, United States of America",34.1998302,-118.2005236,06037
+212,"Glendora, Los Angeles, California",Glendora,Los Angeles,14,"Glendora, Los Angeles County, California, United States of America",34.136118700000004,-117.86533899999999,06037
+213,"Vermont Vista, Los Angeles, California",Vermont Vista,Los Angeles,14,"Vermont Vista, Los Angeles, Los Angeles County, California, 90044, United States of America",33.9419475,-118.2858138,06037
+214,"Rialto, San Bernardino, California",Rialto,San Bernardino,13,"Rialto, San Bernardino County, California, United States of America",34.1064001,-117.37032350000001,06071
+215,"Poway, San Diego, California",Poway,San Diego,13,"Poway, San Diego County, California, 92064, United States of America",32.9628234,-117.0358646,06073
+216,"Sunland, Los Angeles, California",Sunland,Los Angeles,13,"Sunland, Los Angeles, Los Angeles County, California, 91042-2137, United States of America",34.266946600000004,-118.3023,06037
+217,"Lemon Grove, San Diego, California",Lemon Grove,San Diego,13,"Lemon Grove, San Diego County, California, 91945, United States of America",32.7425516,-117.0314172,06073
+218,"Azusa, Los Angeles, California",Azusa,Los Angeles,13,"Azusa, Los Angeles County, California, United States of America",34.1338751,-117.90560459999999,06037
+219,"Chino, San Bernardino, California",Chino,San Bernardino,13,"Chino, San Bernardino County, California, United States of America",34.013356099999996,-117.690075,06071
+220,"Adams-Normandie, Los Angeles, California",Adams-Normandie,Los Angeles,13,"Adams-Normandie, Los Angeles, Los Angeles County, California, United States of America",34.0317877,-118.30024660000001,06037
+221,"La Habra, Orange, California",La Habra,Orange,13,"La Habra, Orange County, California, 90631, United States of America",33.933015600000004,-117.944777,06059
+222,"Lawndale, Los Angeles, California",Lawndale,Los Angeles,13,"Lawndale, Los Angeles County, California, 90260, United States of America",33.8885217,-118.3531991,06037
+223,"Country Club Park, Los Angeles, California",Country Club Park,Los Angeles,12,"Country Club Park, Arlington Heights, Los Angeles, Los Angeles County, California, 90010-3401, United States of America",34.050289,-118.3211871,06037
+224,"French Valley, Riverside, California",French Valley,Riverside,12,"French Valley, Riverside County, California, 92593, United States of America",33.5994102,-117.10917169999999,06065
+225,"Fountain Valley, Orange, California",Fountain Valley,Orange,12,"Fountain Valley, Orange County, California, 92708, United States of America",33.7038145,-117.96273490000002,06059
+226,"View Park/Windsor Hills, Los Angeles, California",View Park/Windsor Hills,Los Angeles,12,"View Park-Windsor Hills, Los Angeles County, California, United States of America",33.9957306,-118.3526102,06037
+227,"West Covina, Los Angeles, California",West Covina,Los Angeles,12,"West Covina, Los Angeles County, California, United States of America",34.0686208,-117.93895259999998,06037
+228,"Diamond Bar, Los Angeles, California",Diamond Bar,Los Angeles,12,"Diamond Bar, Los Angeles County, California, United States of America",34.028622600000006,-117.81033670000001,06037
+229,"Vermont Knolls, Los Angeles, California",Vermont Knolls,Los Angeles,12,"Vermont Knolls, Los Angeles, Los Angeles County, California, 90044-3530, United States of America",33.9668188,-118.29167,06037
+230,"Willowbrook, Los Angeles, California",Willowbrook,Los Angeles,12,"Willowbrook, Los Angeles County, California, 90222:90262, United States of America",33.918786299999994,-118.2343933,06037
+231,"Wholesale District, Los Angeles, California",Wholesale District,Los Angeles,12,"Wholesale Street, Arts District, Downtown, Los Angeles, Los Angeles County, California, 90021, United States of America",34.0365749,-118.2354342,06037
+232,"Bell Gardens, Los Angeles, California",Bell Gardens,Los Angeles,12,"Bell Gardens, Los Angeles County, California, United States of America",33.9694561,-118.1503953,06037
+233,"Mission Hills, Los Angeles, California",Mission Hills,Los Angeles,12,"Mission Hills, North Hills, Los Angeles, Los Angeles County, California, 91345, United States of America",34.257224900000004,-118.4670285,06037
+234,"La Puente, Los Angeles, California",La Puente,Los Angeles,12,"La Puente, Los Angeles County, California, United States of America",34.01979,-117.95036770000002,06037
+235,"Victoria Park, Los Angeles, California",Victoria Park,Los Angeles,11,"Victoria Park, Mid-City, Los Angeles, Los Angeles County, California, 90019, United States of America",34.046688700000004,-118.3307729,06037
+236,"Jurupa Valley, Riverside, California",Jurupa Valley,Riverside,11,"Jurupa Valley, Riverside County, California, 92509, United States of America",33.9798472,-117.4515754,06065
+237,"Lincoln Heights, Los Angeles, California",Lincoln Heights,Los Angeles,11,"Lincoln Heights, Los Angeles, Los Angeles County, California, United States of America",34.0736656,-118.21174369999999,06037
+238,"Monrovia, Los Angeles, California",Monrovia,Los Angeles,11,"Monrovia, Los Angeles County, California, United States of America",34.1483499,-118.0014517,06037
+239,"Dana Point, Orange, California",Dana Point,Orange,11,"Dana Point, Orange County, California, United States of America",33.4669721,-117.69810749999999,06059
+240,"Baldwin Park, Los Angeles, California",Baldwin Park,Los Angeles,10,"Baldwin Park, Los Angeles County, California, 91706, United States of America",34.0854739,-117.96117609999999,06037
+241,"Covina, Los Angeles, California",Covina,Los Angeles,10,"Covina, Los Angeles County, California, United States of America",34.0877926,-117.8891164,06037
+242,"Lakeview Terrace, Los Angeles, California",Lakeview Terrace,Los Angeles,10,"Lakeview Terrace, Azusa, Los Angeles County, California, 91702, United States of America",34.139661700000005,-117.89862509999999,06037
+243,"South County, Santa Barbara, California",South County,Santa Barbara,10,"Santa Barbara, Santa Barbara County, California, United States of America",34.4221319,-119.7026673,06083
+244,"Victorville, San Bernardino, California",Victorville,San Bernardino,10,"Victorville, San Bernardino County, California, United States of America",34.536106700000005,-117.2911565,06071
+245,"Green Meadows, Los Angeles, California",Green Meadows,Los Angeles,10,"Green Meadows, Los Angeles, Los Angeles County, California, United States of America",33.9409877,-118.26299679999998,06037
+246,"Ladera Heights, Los Angeles, California",Ladera Heights,Los Angeles,10,"Ladera Heights, Los Angeles County, California, United States of America",33.994179200000005,-118.37535430000001,06037
+247,"Cheviot Hills, Los Angeles, California",Cheviot Hills,Los Angeles,10,"Cheviot Hills, Los Angeles, Los Angeles County, California, 90064-2320, United States of America",34.0405878,-118.4098875,06037
+248,"South Pasadena, Los Angeles, California",South Pasadena,Los Angeles,10,"South Pasadena, Los Angeles County, California, 91030, United States of America",34.113306200000004,-118.1478291,06037
+249,"Cloverdale/Cochran, Los Angeles, California",Cloverdale/Cochran,Los Angeles,10,,0.0,0.0,00000
+250,"Westminster, Orange, California",Westminster,Orange,10,"Westminster, Orange County, California, United States of America",33.7578725,-117.98590540000001,06059
+251,"Tujunga, Los Angeles, California",Tujunga,Los Angeles,10,"Tujunga, Los Angeles, Los Angeles County, California, 91042, United States of America",34.252225,-118.2884105,06037
+252,"San Gabriel, Los Angeles, California",San Gabriel,Los Angeles,10,"San Gabriel, Los Angeles County, California, United States of America",34.0991325,-118.1086041,06037
+253,"Echo Park, Los Angeles, California",Echo Park,Los Angeles,9,"Echo Park, Los Angeles, Los Angeles County, California, 90026-3148, United States of America",34.0779819,-118.2567824,06037
+254,"San Dimas, Los Angeles, California",San Dimas,Los Angeles,9,"San Dimas, Los Angeles County, California, 91773, United States of America",34.1066756,-117.8067257,06037
+255,"San Fernando, Los Angeles, California",San Fernando,Los Angeles,9,"San Fernando, Los Angeles County, California, 91340, United States of America",34.28497,-118.437652,06037
+256,"Goleta Valley & Gaviota, Santa Barbara, California",Goleta Valley & Gaviota,Santa Barbara,9,,0.0,0.0,00000
+257,"Temple City, Los Angeles, California",Temple City,Los Angeles,9,"Temple City, Los Angeles County, California, United States of America",34.1082994,-118.05775679999999,06037
+258,"Loma Linda, San Bernardino, California",Loma Linda,San Bernardino,9,"Loma Linda, San Bernardino County, California, United States of America",34.075626,-117.25204775,06071
+259,"Crenshaw District, Los Angeles, California",Crenshaw District,Los Angeles,9,"Crenshaw Boulevard, Koreatown, Los Angeles, Los Angeles County, California, 90505, United States of America",34.0612838,-118.3193493,06037
+260,"Harvard Heights, Los Angeles, California",Harvard Heights,Los Angeles,9,"Harvard Heights, Los Angeles, Los Angeles County, California, 90018-1540, United States of America",34.047110499999995,-118.3054828,06037
+261,"Aliso Viejo, Orange, California",Aliso Viejo,Orange,9,"Aliso Viejo, Orange County, California, United States of America",33.576137599999996,-117.7258122,06059
+262,"Oak Park, Ventura, California",Oak Park,Ventura,9,"Oak Park, Ventura County, California, 91377, United States of America",34.1792025,-118.7619719,06111
+263,"Lakeside, San Diego, California",Lakeside,San Diego,9,"Lakeside, Midnight Star Way, Glenview, San Diego County, California, 92021, United States of America",32.85041,-116.89600133970856,06073
+264,"Hesperia, San Bernardino, California",Hesperia,San Bernardino,9,"Hesperia, San Bernardino County, California, 92345, United States of America",34.4263886,-117.3008784,06071
+265,"Lomita, Los Angeles, California",Lomita,Los Angeles,9,"Lomita, Los Angeles County, California, 90717, United States of America",33.8036545,-118.3195014,06037
+266,"Rosemead, Los Angeles, California",Rosemead,Los Angeles,8,"Rosemead, Los Angeles County, California, 91770, United States of America",34.0676169,-118.08797630000001,06037
+267,"El Sobrante, Riverside, California",El Sobrante,Riverside,8,"El Sobrante, Contra Costa County, California, 94803, United States of America",37.977447600000005,-122.2949894,06013
+268,"Rolling Hills Estates, Los Angeles, California",Rolling Hills Estates,Los Angeles,8,"Rolling Hills Estates, Los Angeles County, California, 90274:90717, United States of America",33.787794299999995,-118.3581284,06037
+269,"West Whittier/Los Nietos, Los Angeles, California",West Whittier/Los Nietos,Los Angeles,8,"Banc of California, Mar Vista Street, South Whittier, East Whittier, Whittier, Los Angeles County, California, 90602:90605, United States of America",33.97401095,-118.03770525277784,06037
+270,"Historic Filipinotown, Los Angeles, California",Historic Filipinotown,Los Angeles,8,,0.0,0.0,00000
+271,"Malibu, Los Angeles, California",Malibu,Los Angeles,8,"Malibu, Los Angeles County, California, 90265-4797, United States of America",34.035591,-118.689423,06037
+272,"Indian Wells, Riverside, California",Indian Wells,Riverside,8,"Indian Wells, Riverside County, California, 92210, United States of America",33.7217965,-116.3383034,06065
+273,"Colton, San Bernardino, California",Colton,San Bernardino,8,"Colton, San Bernardino County, California, 92324, United States of America",34.0739016,-117.3136547,06071
+274,"Mt. Washington, Los Angeles, California",Mt. Washington,Los Angeles,8,"Mount Washington, Los Angeles, Los Angeles County, California, 90065-1256, United States of America",34.0988396,-118.22110690000001,06037
+275,"Canyon Country, Los Angeles, California",Canyon Country,Los Angeles,8,"Canyon Country, Los Angeles County, California, 91351, United States of America",34.42332929999999,-118.4720281,06037
+276,"Rowland Heights, Los Angeles, California",Rowland Heights,Los Angeles,8,"Rowland Heights, Los Angeles County, California, 91748, United States of America",33.976123799999996,-117.9053395,06037
+277,"Westlake, Ventura, California",Westlake,Ventura,8,"Westlake, Westlake Village, Ventura County, California, 91361, United States of America",34.124907,-118.864731,06111
+278,"San Jacinto, Riverside, California",San Jacinto,Riverside,8,"San Jacinto, Riverside County, California, 92583, United States of America",33.7839664,-116.95890859999999,06065
+279,"Walnut, Los Angeles, California",Walnut,Los Angeles,8,"Walnut, Los Angeles County, California, 91789, United States of America",34.020289399999996,-117.86533859999999,06037
+280,"Ladera Ranch, Orange, California",Ladera Ranch,Orange,8,"Ladera Ranch, Orange County, California, 92690, United States of America",33.551016499999996,-117.63854009999999,06059
+281,"Bonita, San Diego, California",Bonita,San Diego,8,"Bonita, Bonita Road, Chula Vista, San Diego County, California, 91902, United States of America",32.664798,-117.01596176077473,06073
+282,"Playa Vista, Los Angeles, California",Playa Vista,Los Angeles,8,"Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States of America",33.9759574,-118.41818149999999,06037
+283,"Park La Brea, Los Angeles, California",Park La Brea,Los Angeles,8,"Park La Brea, Mid-Wilshire, Los Angeles, Los Angeles County, California, 90036, United States of America",34.067401600000004,-118.35523629999999,06037
+284,"Walnut Park, Los Angeles, California",Walnut Park,Los Angeles,7,"Walnut Park, Los Angeles County, California, United States of America",33.968107,-118.2223503,06037
+285,"Ramona, San Diego, California",Ramona,San Diego,7,"Ramona, San Diego County, California, United States of America",33.041711199999995,-116.8680821,06073
+286,"Gramercy Place, Los Angeles, California",Gramercy Place,Los Angeles,7,"Gramercy Place, Moneta, Torrance, Los Angeles County, California, 90504, United States of America",33.8677941,-118.31354640000002,06037
+287,"El Segundo, Los Angeles, California",El Segundo,Los Angeles,7,"El Segundo, Los Angeles County, California, 90245, United States of America",33.917028,-118.4156337,06037
+288,"La Verne, Los Angeles, California",La Verne,Los Angeles,7,"La Verne, Los Angeles County, California, 91750, United States of America",34.10084260000001,-117.7678355,06037
+289,"Rancho Park, Los Angeles, California",Rancho Park,Los Angeles,7,"Rancho Park, Los Angeles, Los Angeles County, California, United States of America",34.034446100000004,-118.42526320604608,06037
+290,"Laguna Hills, Orange, California",Laguna Hills,Orange,7,"Laguna Hills, Orange County, California, United States of America",33.5948758,-117.68820670000001,06059
+291,"Stevenson Ranch, Los Angeles, California",Stevenson Ranch,Los Angeles,7,"Stevenson Ranch, Los Angeles County, California, 91381, United States of America",34.3864721,-118.5826635,06037
+292,"Desert Hot Springs, Riverside, California",Desert Hot Springs,Riverside,7,"Desert Hot Springs, Riverside County, California, 92440, United States of America",33.961124,-116.5016784,06065
+293,"Del Mar, San Diego, California",Del Mar,San Diego,7,"Del Mar, San Diego County, California, United States of America",32.9594891,-117.2653146,06073
+294,"Rancho Santa Margarita, Orange, California",Rancho Santa Margarita,Orange,6,"Rancho Santa Margarita, Orange County, California, United States of America",33.6408845,-117.6029341,06059
+295,"Toluca Lake, Los Angeles, California",Toluca Lake,Los Angeles,6,"Toluca Lake, Valley Spring Lane, Hollywood Hills, Los Angeles, Los Angeles County, California, 91602-2121, United States of America",34.14678565,-118.34909242125984,06037
+296,"East Rancho Dominguez, Los Angeles, California",East Rancho Dominguez,Los Angeles,6,"Rancho Dominguez, Los Angeles County, California, 90745, United States of America",33.859592,-118.21064720000001,06037
+297,"Vermont Square, Los Angeles, California",Vermont Square,Los Angeles,6,"Vermont Square, Los Angeles, Los Angeles County, California, United States of America",34.0019449,-118.3002125,06037
+298,"Atwater Village, Los Angeles, California",Atwater Village,Los Angeles,6,"Atwater Village, Los Angeles, Los Angeles County, California, 90039, United States of America",34.118697499999996,-118.26239240000001,06037
+299,"La Palma, Orange, California",La Palma,Orange,6,"La Palma, Orange County, California, 90623, United States of America",33.846404,-118.04673059999999,06059
+300,"Barstow, San Bernardino, California",Barstow,San Bernardino,6,"Barstow, San Bernardino County, California, United States of America",34.8957684,-117.0172077,06071
+301,"Valinda, Los Angeles, California",Valinda,Los Angeles,6,"Valinda, East Lucille Avenue, West Covina, Los Angeles County, California, 91790, United States of America",34.0384785,-117.93355898556877,06037
+302,"Marina Peninsula, Los Angeles, California",Marina Peninsula,Los Angeles,6,"Neighborhood, the Peninsula, Naples, Long Beach, Los Angeles County, California, United States of America",33.74871265,-118.12271149597164,06037
+303,"Fallbrook, San Diego, California",Fallbrook,San Diego,6,"Fallbrook, San Diego County, California, 92028, United States of America",33.3764196,-117.2511466,06073
+304,"Claremont, Los Angeles, California",Claremont,Los Angeles,5,"Claremont, Los Angeles County, California, United States of America",34.0966764,-117.71977849999999,06037
+305,"Castaic, Los Angeles, California",Castaic,Los Angeles,5,"Castaic, Los Angeles County, California, 91384, United States of America",34.488882200000006,-118.6228656,06037
+306,"La Crescenta-Montrose, Los Angeles, California",La Crescenta-Montrose,Los Angeles,5,"La Crescenta Avenue, Sparr Heights, Glendale, Los Angeles County, California, 91020, United States of America",34.1969689,-118.2299754,06037
+307,"San Marino, Los Angeles, California",San Marino,Los Angeles,5,"San Marino, Los Angeles County, California, 91108, United States of America",34.1215947,-118.1057394,06037
+308,"Trabuco Canyon, Orange, California",Trabuco Canyon,Orange,5,"Trabuco Canyon, Orange County, California, 92678, United States of America",33.6626232,-117.58938,06059
+309,"Lafayette Square, Los Angeles, California",Lafayette Square,Los Angeles,5,,0.0,0.0,00000
+310,"Marina del Rey, Los Angeles, California",Marina del Rey,Los Angeles,5,"Marina del Rey, Los Angeles County, California, 90292, United States of America",33.97765020000001,-118.4491903,06037
+311,"Santa Monica Mountains, Los Angeles, California",Santa Monica Mountains,Los Angeles,5,,0.0,0.0,00000
+312,"Elysian Park, Los Angeles, California",Elysian Park,Los Angeles,5,"Elysian Park, Los Angeles, Los Angeles County, California, United States of America",34.0774343,-118.23862040000002,06037
+313,"South San Gabriel, Los Angeles, California",South San Gabriel,Los Angeles,5,"South San Gabriel, Los Angeles County, California, 91770, United States of America",34.06251029999999,-118.09034650000001,06037
+314,"Santa Ynez Valley, Santa Barbara, California",Santa Ynez Valley,Santa Barbara,5,"Santa Ynez, Laurel Avenue, Solvang, Santa Barbara County, California, 93464, United States of America",34.608637,-120.1046774214973,06083
+315,"Thai Town, Los Angeles, California",Thai Town,Los Angeles,5,"Thai Town, East Hollywood, Los Angeles, Los Angeles County, California, 90028-5420, United States of America",34.1018533,-118.3048616,06037
+316,"Shadow Hills, Los Angeles, California",Shadow Hills,Los Angeles,5,"Shadow Hills, Los Angeles, Los Angeles County, California, 91040-1737, United States of America",34.2619469,-118.3517463,06037
+317,"Solana Beach, San Diego, California",Solana Beach,San Diego,5,"Solana Beach, San Diego County, California, 92075, United States of America",32.9905597,-117.2691316,06073
+318,"Newbury Park, Ventura, California",Newbury Park,Ventura,5,"Newbury Park, Ventura County, California, 91320, United States of America",34.183671000000004,-118.91183020000001,06111
+319,"Brea, Orange, California",Brea,Orange,4,"Brea, Orange County, California, United States of America",33.917044399999995,-117.88885570000001,06059
+320,"Goleta, Santa Barbara, California",Goleta,Santa Barbara,4,"Goleta, Santa Barbara County, California, 93111, United States of America",34.4358295,-119.8276389,06083
+321,"Coronado, San Diego, California",Coronado,San Diego,4,"Coronado, San Diego County, California, United States of America",32.691519899999996,-117.1766947,06073
+322,"Woodcrest, Riverside, California",Woodcrest,Riverside,4,"Woodcrest, Woodcrest Lane, Glen Valley, Riverside County, California, 92508, United States of America",33.877202600000004,-117.33350222409193,06065
+323,"Ojai, Ventura, California",Ojai,Ventura,4,"Ojai, Ventura County, California, 93023, United States of America",34.448049499999996,-119.24288899999999,06111
+324,"Norco, Riverside, California",Norco,Riverside,4,"Norco, Riverside County, California, 92860, United States of America",33.9323307,-117.55089009999999,06065
+325,"Alta Loma, San Bernardino, California",Alta Loma,San Bernardino,4,"Alta Loma, San Bernardino County, California, 91701-9998, United States of America",34.122887,-117.59857749999999,06071
+326,"Apple Valley, San Bernardino, California",Apple Valley,San Bernardino,4,"Apple Valley, San Bernardino County, California, United States of America",34.5008311,-117.18587590000001,06071
+327,"Mead Valley, Riverside, California",Mead Valley,Riverside,4,"Mead Valley, Riverside County, California, 92570-7298, United States of America",33.8333516,-117.29615120000001,06065
+328,"Montclair, San Bernardino, California",Montclair,San Bernardino,4,"Montclair, San Bernardino County, California, 91763, United States of America",34.0775104,-117.68977759999999,06071
+329,"Valley Center, San Diego, California",Valley Center,San Diego,3,"Valley Center, San Diego County, California, 92082, United States of America",33.226192999999995,-117.02912997949079,06073
+330,"Canyon Lake, Riverside, California",Canyon Lake,Riverside,3,"Canyon Lake, Riverside County, California, United States of America",33.683653899999996,-117.26261509999999,06065
+331,"Imperial Beach, San Diego, California",Imperial Beach,San Diego,3,"Imperial Beach, San Diego County, California, 91932, United States of America",32.58394439999999,-117.11308490000002,06073
+332,"Seal Beach, Orange, California",Seal Beach,Orange,3,"Seal Beach, Orange County, California, United States of America",33.7423967,-118.1055926,06059
+333,"Adelanto, San Bernardino, California",Adelanto,San Bernardino,3,"Adelanto, San Bernardino County, California, 92342, United States of America",34.582769899999995,-117.40921499999999,06071
+334,"Anza, Riverside, California",Anza,Riverside,3,"Anza, Riverside County, California, United States of America",33.5559483,-116.67457009999998,06065
+335,"Desert Palms, Riverside, California",Desert Palms,Riverside,3,"Desert Palms, Palm Desert, Riverside County, California, United States of America",33.7722416,-116.293411,06065
+336,"Big Bear Lake, San Bernardino, California",Big Bear Lake,San Bernardino,3,"Big Bear Lake, San Bernardino County, California, 92315, United States of America",34.244058700000004,-116.91018079999999,06071
+337,"Bloomington, San Bernardino, California",Bloomington,San Bernardino,3,"Bloomington Locality, Spohn Court, Fontana, San Bernardino County, California, 92316, United States of America",34.060709,-117.40081372327542,06071
+338,"Mentone, San Bernardino, California",Mentone,San Bernardino,3,"Mentone, Pactfield Place, Dunlap Acres, Yucaipa, San Bernardino County, California, 92399, United States of America",34.058840000000004,-117.10960647472359,06071
+339,"Santa Paula, Ventura, California",Santa Paula,Ventura,3,"Santa Paula, Ventura County, California, United States of America",34.3541659,-119.05927050000001,06111
+340,"Calimesa, Riverside, California",Calimesa,Riverside,3,"Calimesa, Riverside County, California, 92320, United States of America",34.003904399999996,-117.0619774,06065
+341,"Mecca, Riverside, California",Mecca,Riverside,3,"Mecca, Riverside County, California, United States of America",33.5511969,-116.06970822122544,06065
+342,"Bermuda Dunes, Riverside, California",Bermuda Dunes,Riverside,2,"Bermuda Dunes, Palm Desert, Riverside County, California, United States of America",33.7438202,-116.2863072,06065
+343,"Blythe, Riverside, California",Blythe,Riverside,2,"Blythe, Riverside County, California, 92226, United States of America",33.61347670000001,-114.59375370000001,06065
+344,"Good Hope, Riverside, California",Good Hope,Riverside,2,"Good Hope, Riverside County, California, 92570, United States of America",33.764741799999996,-117.2669825,06065
+345,"Nuevo, Riverside, California",Nuevo,Riverside,2,"Nuevo, Orange Avenue, Lakeview Hot Springs, Lakeview, Riverside County, California, United States of America",33.8056345,-117.13956015339623,06065
+346,"Lake Sherwood, Ventura, California",Lake Sherwood,Ventura,2,"Lake Sherwood, Cricketfield Court, Greenwich Village, Ventura County, California, 91361, United States of America",34.13705515,-118.87489587697777,06111
+347,"Running Springs, San Bernardino, California",Running Springs,San Bernardino,2,"Running Springs, Exploration Trail 2W09X, Arrowbear Lake, Running Springs, San Bernardino County, California, 92382, United States of America",34.2124412,-117.12487761192112,06071
+348,"Pauma Valley, San Diego, California",Pauma Valley,San Diego,2,"Pauma Valley, San Diego County, California, 92061, United States of America",33.3033679,-116.98141670000001,06073
+349,"Port Hueneme, Ventura, California",Port Hueneme,Ventura,2,"Port Hueneme, Ventura County, California, United States of America",34.147782899999996,-119.1951074,06111
+350,"Joshua Tree, San Bernardino, California",Joshua Tree,San Bernardino,2,"Joshua Tree, Cougar Lane, Friendly Hills, Joshua Tree, San Bernardino County, California, 92295, United States of America",34.12652620000001,-116.32093491214891,06071
+351,"Ranchita, San Diego, California",Ranchita,San Diego,2,"Ranchita, San Diego County, California, 92066, United States of America",33.2100397,-116.5166835,06073
+352,"Desert Edge, Riverside, California",Desert Edge,Riverside,2,"Desert Edge Drive, Los Angeles County, California, United States of America",34.793178999999995,-118.558199,06037
+353,"Big Bear City, San Bernardino, California",Big Bear City,San Bernardino,2,"Big Bear City, Hillen Dale Drive, Big Bear City, San Bernardino County, California, 92314, United States of America",34.267886,-116.84859785319149,06071
+354,"Blue Jay, San Bernardino, California",Blue Jay,San Bernardino,2,"Blue Jay, San Bernardino County, California, 92317, United States of America",34.2460204,-117.210297,06071
+355,"Mesa Verde, Riverside, California",Mesa Verde,Riverside,2,"Mesa Verde, Riverside County, California, United States of America",33.6058577,-114.7310717,06065
+356,"East Hemet, Riverside, California",East Hemet,Riverside,2,"East Hemet, Beachwood Avenue, East Hemet, Riverside County, California, 92383, United States of America",33.7386312,-116.9390169337224,06065
+357,"Yucca Valley, San Bernardino, California",Yucca Valley,San Bernardino,2,"Yucca Valley, San Bernardino County, California, United States of America",34.12346289999999,-116.4140676,06071
+358,"Oasis, Riverside, California",Oasis,Riverside,2,"Oasis, Riverside County, California, United States of America",33.465863,-116.09889220000001,06065
+359,"Thermal, Riverside, California",Thermal,Riverside,1,"Thermal, Riverside County, California, United States of America",33.6403013,-116.13944850000001,06065
+360,"Meadowbrook, Riverside, California",Meadowbrook,Riverside,1,"Meadowbrook, Vista Santa Rosa, La Quinta, Riverside County, California, 92247, United States of America",33.637354200000004,-116.25698729999999,06065
+361,"Idyllwild-Pine Cove, Riverside, California",Idyllwild-Pine Cove,Riverside,1,"Idyllwild-Pine Cove, Forest Service Road, Mountain Center, Idyllwild, Riverside County, California, 92459, United States of America",33.7435011,-116.72377802857142,06065
+362,"Home Gardens, Riverside, California",Home Gardens,Riverside,1,"Home Gardens, Brotherton Street, Home Gardens, Riverside County, California, 91719, United States of America",33.880832700000006,-117.5133522182106,06065
+363,"Green Acres, Riverside, California",Green Acres,Riverside,1,"Green Acres, March Field, Riverside County, California, United States of America",33.8995991,-117.25347505890717,06065
+364,"El Cerrito, Riverside, California",El Cerrito,Riverside,1,"El Cerrito, Villa Catalonia Court, El Cerrito, Riverside County, California, 92881, United States of America",33.8410146,-117.52079778811958,06065
+365,"Cherry Valley, Riverside, California",Cherry Valley,Riverside,1,"Cherry Valley, Eucalyptus Lane, Cherry Valley, Riverside County, California, 92223, United States of America",33.97956550000001,-116.97058444015579,06065
+366,"Isla Vista, Santa Barbara, California",Isla Vista,Santa Barbara,1,"Isla Vista, Santa Barbara County, California, 93117-4620, United States of America",34.413380100000005,-119.86151310000001,06083
+367,"Jamul, San Diego, California",Jamul,San Diego,1,"Jamul, San Diego County, California, 91935, United States of America",32.7169988,-116.87613470000001,06073
+368,"Descanso, San Diego, California",Descanso,San Diego,1,"Descanso, San Diego County, California, 91916, United States of America",32.8528287,-116.61585249999999,06073
+369,"Borrego Springs, San Diego, California",Borrego Springs,San Diego,1,"Borrego Springs, San Diego County, California, 92004, United States of America",33.2566792,-116.37826820000001,06073
+370,"Alpine, San Diego, California",Alpine,San Diego,1,"Alpine, San Diego County, California, 91901, United States of America",32.843979000000004,-116.7601167124217,06073
+371,"Somis, Ventura, California",Somis,Ventura,1,"Somis, Ventura County, California, 93066, United States of America",34.2572261,-118.9962124,06111
+372,"Temescal Valley, Riverside, California",Temescal Valley,Riverside,1,"Temescal Valley, Riverside County, California, 92883, United States of America",33.762796,-117.48532309999999,06065
+373,"Indio Hills, Riverside, California",Indio Hills,Riverside,1,"Indio Hills, Riverside County, California, United States of America",33.831128,-116.23139579999999,06065
+374,"Thousand Palms, Riverside, California",Thousand Palms,Riverside,1,"Thousand Palms, Cathedral City, Riverside County, California, United States of America",33.8217125,-116.39358,06065
+375,"Warm Springs, Riverside, California",Warm Springs,Riverside,1,"Warm Springs, San Bernardino County, California, 92401, United States of America",34.1072339,-117.263931,06071
+376,"Santa Rosa Valley, Ventura, California",Santa Rosa Valley,Ventura,1,,0.0,0.0,00000
+377,"Piru, Ventura, California",Piru,Ventura,1,"Piru, Ventura County, California, United States of America",34.4156137,-118.7927456,06111
+378,"Oak View, Ventura, California",Oak View,Ventura,1,"Oak View, Camp Willet Road, Oak View, Ventura County, California, 93022, United States of America",34.397628999999995,-119.29989457464468,06111
+379,"Lakeland Village, Riverside, California",Lakeland Village,Riverside,1,"Lakeland Village, Riverside County, California, 92530, United States of America",33.6367576,-117.34442209999999,06065
+380,"Stanton, Orange, California",Stanton,Orange,1,"Stanton, Orange County, California, 90680, United States of America",33.79410005,-117.99510059728792,06059
+381,"Crestline, San Bernardino, California",Crestline,San Bernardino,1,"Crestline, Springy Path, Crestline, San Bernardino County, California, 92325, United States of America",34.2495525,-117.29389561188812,06071
+382,"Grand Terrace, San Bernardino, California",Grand Terrace,San Bernardino,1,"Grand Terrace, San Bernardino County, California, United States of America",34.0339031,-117.3136544,06071
+383,"Oak Hills, San Bernardino, California",Oak Hills,San Bernardino,1,"Oak Hills, San Bernardino County, California, 92345, United States of America",34.399722499999996,-117.34060149999999,06071
+384,"Phelan, San Bernardino, California",Phelan,San Bernardino,1,"Phelan, San Bernardino County, California, United States of America",34.426297999999996,-117.57250259999998,06071
+385,"Rimforest, San Bernardino, California",Rimforest,San Bernardino,1,"Rimforest, San Bernardino County, California, 92378, United States of America",34.2297292,-117.2250419,06071
+386,"Wrightwood, San Bernardino, California",Wrightwood,San Bernardino,1,"Wrightwood, Acorn Trail, Wrightwood, San Bernardino County, California, 92396, United States of America",34.3583535,-117.62759983903358,06071
+387,"View Heights, Los Angeles, California",View Heights,Los Angeles,1,"The California, Los Robles Avenue, Madison Heights, Pasadena, Los Angeles County, California, 91101, United States of America",34.14300789999999,-118.14176172581024,06037
+388,"Valencia, Los Angeles, California",Valencia,Los Angeles,1,"Valencia, Los Angeles County, California, 91355, United States of America",34.413819000000004,-118.56103780000001,06037
+389,"Twin Lakes/Oat Mountain, Los Angeles, California",Twin Lakes/Oat Mountain,Los Angeles,1,"Twin Lakes, Los Angeles County, California, 91311, United States of America",34.2780578,-118.60147690000001,06037
+390,"Sun Village, Los Angeles, California",Sun Village,Los Angeles,1,"California Waterscapes, 8309, Tujunga Avenue, Sun Valley, Shadow Hills, Los Angeles, Los Angeles County, California, 91352, United States of America",34.224533,-118.3800253,06037
+391,"St Elmo Village, Los Angeles, California",St Elmo Village,Los Angeles,1,,0.0,0.0,00000
+392,"South El Monte, Los Angeles, California",South El Monte,Los Angeles,1,"South El Monte, Los Angeles County, California, 91733, United States of America",34.0519548,-118.04673390000002,06037
+393,"Signal Hill, Los Angeles, California",Signal Hill,Los Angeles,1,"Signal Hill, Los Angeles County, California, United States of America",33.804826,-118.168259,06037
+394,"Sierra Madre, Los Angeles, California",Sierra Madre,Los Angeles,1,"Sierra Madre, Los Angeles County, California, 91024, United States of America",34.1616729,-118.0528456,06037
+395,"Saugus, Los Angeles, California",Saugus,Los Angeles,1,"Saugus, Los Angeles County, California, 91350, United States of America",34.4493489,-118.5168257,06037
+396,"Santa Fe Springs, Los Angeles, California",Santa Fe Springs,Los Angeles,1,"Santa Fe Springs, Los Angeles County, California, 90670, United States of America",33.9480787,-118.06914990000001,06037
+397,"Santa Catalina Island, Los Angeles, California",Santa Catalina Island,Los Angeles,1,"Santa Catalina Island, Los Angeles County, California, United States of America",33.38890375,-118.42392875335275,06037
+398,"Rosewood, Los Angeles, California",Rosewood,Los Angeles,1,"Rosewood Park, Fairfax, Los Angeles, Los Angeles County, California, 90046, United States of America",34.080287299999995,-118.36091090000002,06037
+399,"Rolling Hills, Los Angeles, California",Rolling Hills,Los Angeles,1,"Rolling Hills, Los Angeles County, California, United States of America",33.7668041,-118.34966229999999,06037
+400,"Reynier Village, Los Angeles, California",Reynier Village,Los Angeles,1,,0.0,0.0,00000
+401,"Reseda Ranch, Los Angeles, California",Reseda Ranch,Los Angeles,1,"Reseda Boulevard, Porter Ranch, Los Angeles, Los Angeles County, California, 91326-1729, United States of America",34.285475500000004,-118.53426499999999,06037
+402,"Regent Square, Los Angeles, California",Regent Square,Los Angeles,1,"Regent, 1045, Broxton Avenue, Westwood Village, Westwood, Los Angeles, Los Angeles County, California, 90024, United States of America",34.0615961,-118.44655209999999,06037
+403,"Acton, Los Angeles, California",Acton,Los Angeles,1,"Acton, 42nd Street West, Acton, Los Angeles County, California, 93510, United States of America",34.48074149999999,-118.1868378638664,06037
+404,"Quartz Hill, Los Angeles, California",Quartz Hill,Los Angeles,1,"Quartz Hill, Los Angeles County, California, United States of America",34.6452645,-118.2181308,06037
+405,"Playa Del Rey, Los Angeles, California",Playa Del Rey,Los Angeles,1,"Playa del Rey, Los Angeles, Los Angeles County, California, United States of America",33.9550828,-118.4367496,06037
+406,"Palisades Highlands, Los Angeles, California",Palisades Highlands,Los Angeles,1,,0.0,0.0,00000
+407,"Northeast San Gabriel, Los Angeles, California",Northeast San Gabriel,Los Angeles,1,"San Gabriel, Los Angeles County, California, United States of America",34.0991325,-118.1086041,06037
+408,"Wiseburn, Los Angeles, California",Wiseburn,Los Angeles,1,"Wiseburn Street, Hawthorne, Los Angeles County, California, 90261, United States of America",33.9131734,-118.37505139999999,06037
+409,"North Whittier, Los Angeles, California",North Whittier,Los Angeles,1,"California, Pioneer Boulevard, Whittier, Los Angeles County, California, 90606, United States of America",33.9995929,-118.0668338,06037
+410,"Monrovia, Los Angeles, California",Monrovia,Los Angeles,1,"Monrovia, Los Angeles County, California, United States of America",34.1483499,-118.0014517,06037
+411,"Mandeville Canyon, Los Angeles, California",Mandeville Canyon,Los Angeles,1,"Mandeville Canyon, Los Angeles, Los Angeles County, California, 90049-4013, United States of America",34.0610395,-118.49498009999999,06037
+412,"Manchester Square, Los Angeles, California",Manchester Square,Los Angeles,1,"Manchester Square, Los Angeles, Los Angeles County, California, 90305, United States of America",33.966374,-118.31337749999999,06037
+413,"Longwood, Los Angeles, California",Longwood,Los Angeles,1,"Longwood Park, Playa Vista, Los Angeles, Los Angeles County, California, United States of America",33.973537,-118.42639527354078,06037
+414,"Littlerock/Pearblossom, Los Angeles, California",Littlerock/Pearblossom,Los Angeles,1,"Littlerock Community Church, 7854, Pearblossom Highway, Littlerock, Los Angeles County, California, 93543, United States of America",34.520798799999994,-117.98844600460268,06037
+415,"Little Tokyo, Los Angeles, California",Little Tokyo,Los Angeles,1,"Little Tokyo, Downtown, Los Angeles, Los Angeles County, California, United States of America",34.04821679999999,-118.241181436601,06037
+416,"Lake Manor, Los Angeles, California",Lake Manor,Los Angeles,1,,0.0,0.0,00000
+417,"Lake Los Angeles, Los Angeles, California",Lake Los Angeles,Los Angeles,1,"Lake Los Angeles, 152nd Street East, Lake Los Angeles, Los Angeles County, California, 93591, United States of America",34.6127395,-117.84039551397726,06037
+418,"La Verne, Los Angeles, California",La Verne,Los Angeles,1,"La Verne, Los Angeles County, California, 91750, United States of America",34.10084260000001,-117.7678355,06037
+419,"La Rambla, Los Angeles, California",La Rambla,Los Angeles,1,"La Rambla Drive, Burbank, Los Angeles County, California, 91201, United States of America",34.1889019,-118.28434879999999,06037
+420,"Jefferson Park, Los Angeles, California",Jefferson Park,Los Angeles,1,"Jefferson Park, Los Angeles, Los Angeles County, California, United States of America",34.0296173,-118.32245970000001,06037
+421,"Industry, Los Angeles, California",Industry,Los Angeles,1,"Industry, Los Angeles County, California, United States of America",33.996821000000004,-117.88611057547772,06037
+422,"Hawthorne, Los Angeles, California",Hawthorne,Los Angeles,1,"Hawthorne, Los Angeles County, California, United States of America",33.9188589,-118.34832560000001,06037
+423,"Hawaiian Gardens, Los Angeles, California",Hawaiian Gardens,Los Angeles,1,"Hawaiian Gardens, Los Angeles County, California, United States of America",33.8284787,-118.0743137,06037
+424,"Whittier, Los Angeles, California",Whittier,Los Angeles,1,"Whittier, Los Angeles County, California, United States of America",33.9708782,-118.0308396,06037
+425,"Figueroa Park Square, Los Angeles, California",Figueroa Park Square,Los Angeles,1,,0.0,0.0,00000
+426,"Westlake Village, Los Angeles, California",Westlake Village,Los Angeles,1,"Westlake Village, Los Angeles County, California, United States of America",34.1460234,-118.8061794,06037
+427,"Faircrest Heights, Los Angeles, California",Faircrest Heights,Los Angeles,1,,0.0,0.0,00000
+428,"Elysian Valley, Los Angeles, California",Elysian Valley,Los Angeles,1,"Elysian Valley, Los Angeles, Los Angeles County, California, United States of America",34.095912799999994,-118.24203259999999,06037
+429,"El Camino Village, Los Angeles, California",El Camino Village,Los Angeles,1,"El Camino, Spadra, Pomona, Los Angeles County, California, 91768, United States of America",34.0759648,-117.7802763,06037
+430,"East Whittier, Los Angeles, California",East Whittier,Los Angeles,1,"East La Mirada, Los Angeles County, California, 90604, United States of America",33.924457700000005,-117.9889525,06037
+431,"East La Mirada, Los Angeles, California",East La Mirada,Los Angeles,1,"East La Mirada, Los Angeles County, California, 90604, United States of America",33.924457700000005,-117.9889525,06037
+432,"Duarte, Los Angeles, California",Duarte,Los Angeles,1,"Duarte, Los Angeles County, California, 91010, United States of America",34.1394513,-117.97728729999999,06037
+433,"West Rancho Dominguez, Los Angeles, California",West Rancho Dominguez,Los Angeles,1,"Rancho Dominguez, Los Angeles County, California, 90745, United States of America",33.859592,-118.21064720000001,06037
+434,"Del Aire, Los Angeles, California",Del Aire,Los Angeles,1,"Del Aire, Los Angeles County, California, 90045-5663, United States of America",33.9232739,-118.37470230000001,06037
+435,"West Puente Valley, Los Angeles, California",West Puente Valley,Los Angeles,1,"West Puente Valley, El Monte, Los Angeles County, California, United States of America",34.049858,-117.96462933942223,06037
+436,"Covina (Charter Oak), Los Angeles, California",Covina (Charter Oak),Los Angeles,1,"West Covina Boulevard, Charter Oak Mobile Estates, San Dimas, Los Angeles County, California, 91773, United States of America",34.0994214,-117.83665649999999,06037
+437,"Chinatown, Los Angeles, California",Chinatown,Los Angeles,1,"Chinatown, Los Angeles, Los Angeles County, California, 90012, United States of America",34.0638402,-118.23586759999999,06037
+438,"Cadillac-Corning, Los Angeles, California",Cadillac-Corning,Los Angeles,1,,0.0,0.0,00000
+439,"West LA, Los Angeles, California",West LA,Los Angeles,1,"West, Avenue C, Wilton Historic District, Hollywood, Los Angeles, Los Angeles County, California, 90038, United States of America",34.08626925,-118.32107450707359,06037
+440,"Bassett, Los Angeles, California",Bassett,Los Angeles,1,"Bassett, Los Angeles County, California, 91746, United States of America",34.049732299999995,-117.99673229999999,06037
+441,"Azusa, Los Angeles, California",Azusa,Los Angeles,1,"Azusa, Los Angeles County, California, United States of America",34.1338751,-117.90560459999999,06037
+442,"Athens Village, Los Angeles, California",Athens Village,Los Angeles,1,"Athens, Los Angeles County, California, 90061, United States of America",33.920407,-118.27904939999999,06037
+443,"Artesia, Los Angeles, California",Artesia,Los Angeles,1,"Artesia, Los Angeles County, California, United States of America",33.8690197,-118.0796195,06037
+444,"Alsace, Los Angeles, California",Alsace,Los Angeles,1,"Alsace Avenue, Los Angeles, Los Angeles County, California, 90043, United States of America",33.9879995,-118.3476199,06037
+445,"West Antelope Valley, Los Angeles, California",West Antelope Valley,Los Angeles,1,,0.0,0.0,00000
+446,"Agua Dulce, Los Angeles, California",Agua Dulce,Los Angeles,1,,0.0,0.0,00000
+447,"Rancho Dominguez, Los Angeles, California",Rancho Dominguez,Los Angeles,1,"Rancho Dominguez, Los Angeles County, California, 90745, United States of America",33.859592,-118.21064720000001,06037

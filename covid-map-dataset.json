@@ -1,0 +1,6725 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "San Diego",
+        "Cases": 649
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.16277140000001,
+          32.7174209
+        ]
+      },
+      "id": "06073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Long Beach",
+        "Cases": 213
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1916048,
+          33.7690164
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Melrose",
+        "Cases": 140
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2427666,
+          34.0536909
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Glendale",
+        "Cases": 129
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.24784709999999,
+          34.146941600000005
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Santa Clarita",
+        "Cases": 102
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.54258600000001,
+          34.3916641
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Hollywood",
+        "Cases": 96
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.32952320000001,
+          34.0980031
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "North Hollywood",
+        "Cases": 91
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.37403710000001,
+          34.1729044
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Torrance",
+        "Cases": 86
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.34062879999999,
+          33.835849200000006
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Chula Vista",
+        "Cases": 86
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0841955,
+          32.6400541
+        ]
+      },
+      "id": "06073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Carson",
+        "Cases": 83
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2517547,
+          33.832204299999994
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "West Hollywood",
+        "Cases": 83
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.36928940000001,
+          34.0923014
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Anaheim",
+        "Cases": 79
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.911732,
+          33.8347516
+        ]
+      },
+      "id": "06059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Irvine",
+        "Cases": 75
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.82598190000002,
+          33.685696899999996
+        ]
+      },
+      "id": "06059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Moreno Valley",
+        "Cases": 74
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.23059440000002,
+          33.937517
+        ]
+      },
+      "id": "06065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Other/Unknown",
+        "Cases": 73
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "id": "00000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Newport Beach",
+        "Cases": 73
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.92944009999998,
+          33.6170092
+        ]
+      },
+      "id": "06059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Burbank",
+        "Cases": 70
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3258554,
+          34.181648200000005
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Yucaipa",
+        "Cases": 70
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0430865,
+          34.033625
+        ]
+      },
+      "id": "06071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Inglewood",
+        "Cases": 69
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.353132,
+          33.9562003
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Downey",
+        "Cases": 68
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1235646,
+          33.942215000000004
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Santa Monica",
+        "Cases": 68
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4965129,
+          34.0250724
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "El Cajon",
+        "Cases": 67
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.96252690000001,
+          32.7947731
+        ]
+      },
+      "id": "06073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Beverly Hills",
+        "Cases": 65
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3963062,
+          34.0696501
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Redondo Beach",
+        "Cases": 64
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.38867659999998,
+          33.8455911
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Other/Unknown",
+        "Cases": 64
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8882037,
+          33.690188299999996
+        ]
+      },
+      "id": "06059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Riverside",
+        "Cases": 63
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.39616229999999,
+          33.953354600000004
+        ]
+      },
+      "id": "06065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Sylmar",
+        "Cases": 61
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.44921480000001,
+          34.307625200000004
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Huntington Beach",
+        "Cases": 58
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0000166,
+          33.6783336
+        ]
+      },
+      "id": "06059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Santa Ana",
+        "Cases": 58
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8732213,
+          33.7494951
+        ]
+      },
+      "id": "06059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Pasadena",
+        "Cases": 58
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.14447790000001,
+          34.14764520000001
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Sherman Oaks",
+        "Cases": 56
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4489865,
+          34.1508718
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Silver Lake",
+        "Cases": 55
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.26937350000001,
+          34.0896518
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "South Gate",
+        "Cases": 52
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.200981,
+          33.9463456
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Lancaster",
+        "Cases": 51
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.13661529999999,
+          34.6981064
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Norwalk",
+        "Cases": 49
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0849169,
+          33.909280200000005
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Brentwood",
+        "Cases": 49
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4740699,
+          34.0521403
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Palm Springs",
+        "Cases": 48
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.54030300000001,
+          33.8246269
+        ]
+      },
+      "id": "06065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Woodland Hills",
+        "Cases": 47
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.6058382,
+          34.1684364
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Simi Valley",
+        "Cases": 46
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.78148200000001,
+          34.2694474
+        ]
+      },
+      "id": "06111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Manhattan Beach",
+        "Cases": 46
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.39512409999999,
+          33.8915985
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Santa Maria",
+        "Cases": 45
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.4358577,
+          34.953129499999996
+        ]
+      },
+      "id": "06083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "East Los Angeles",
+        "Cases": 44
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.17201570000002,
+          34.0239015
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Temecula",
+        "Cases": 44
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.14736609999999,
+          33.4946353
+        ]
+      },
+      "id": "06065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Indio",
+        "Cases": 44
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2188054,
+          33.71928079999999
+        ]
+      },
+      "id": "06065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Corona",
+        "Cases": 42
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.56644490000001,
+          33.8752945
+        ]
+      },
+      "id": "06065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Palm Desert",
+        "Cases": 42
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.38257109999999,
+          33.7288179
+        ]
+      },
+      "id": "06065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Palms",
+        "Cases": 41
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4116152,
+          34.024732799999995
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Fontana",
+        "Cases": 40
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.435048,
+          34.0922335
+        ]
+      },
+      "id": "06071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Oxnard",
+        "Cases": 40
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.18038179999999,
+          34.1976308
+        ]
+      },
+      "id": "06111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Carlsbad",
+        "Cases": 39
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3505966,
+          33.158093300000004
+        ]
+      },
+      "id": "06073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Hollywood Hills",
+        "Cases": 39
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.33554740000001,
+          34.1311792
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Murrieta",
+        "Cases": 39
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2106564,
+          33.560832
+        ]
+      },
+      "id": "06065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Encino",
+        "Cases": 39
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.50161659999999,
+          34.1591324
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Hawthorne",
+        "Cases": 39
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.34832560000001,
+          33.9188589
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Reseda",
+        "Cases": 38
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.53698840000001,
+          34.200078399999995
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Hancock Park",
+        "Cases": 38
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.33505509999999,
+          34.0736782
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Palmdale",
+        "Cases": 37
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1171108,
+          34.5793131
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Boyle Heights",
+        "Cases": 37
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20976840000002,
+          34.0436892
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Tarzana",
+        "Cases": 37
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.54297890000001,
+          34.171443599999996
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Lynwood",
+        "Cases": 37
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2024154,
+          33.924831
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "San Clemente",
+        "Cases": 37
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6124179,
+          33.4270275
+        ]
+      },
+      "id": "06059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Van Nuys",
+        "Cases": 36
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.448729,
+          34.1866581
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Florence-Firestone",
+        "Cases": 35
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2433068,
+          33.9674263
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Compton",
+        "Cases": 34
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.226624,
+          33.894927
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Panorama City",
+        "Cases": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.44537450000001,
+          34.2242902
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Thousand Oaks",
+        "Cases": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.91058772974444,
+          34.17142715
+        ]
+      },
+      "id": "06111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Koreatown",
+        "Cases": 32
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3053732,
+          34.061734200000004
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Menifee",
+        "Cases": 32
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1770437,
+          33.68644320000001
+        ]
+      },
+      "id": "06065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Bellflower",
+        "Cases": 32
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1167679,
+          33.8825705
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Canoga Park",
+        "Cases": 32
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.5978259,
+          34.2010776
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Laguna Beach",
+        "Cases": 32
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.78536650000001,
+          33.542697499999996
+        ]
+      },
+      "id": "06059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Santa Barbara",
+        "Cases": 31
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7026673,
+          34.4221319
+        ]
+      },
+      "id": "06083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Perris",
+        "Cases": 31
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.22864779999999,
+          33.7825194
+        ]
+      },
+      "id": "06065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Pico Rivera",
+        "Cases": 31
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.09673500000001,
+          33.9830688
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Westlake",
+        "Cases": 31
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.27282040000001,
+          34.0629226
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Camarillo",
+        "Cases": 30
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.03765729999999,
+          34.2164099
+        ]
+      },
+      "id": "06111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Glassell Park",
+        "Cases": 30
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22896270000001,
+          34.1161201
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Gardena",
+        "Cases": 30
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3053037,
+          33.8963593
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Valley Village",
+        "Cases": 30
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3965758,
+          34.16371470000001
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Pacoima",
+        "Cases": 30
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.427027,
+          34.262502500000004
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "West Los Angeles",
+        "Cases": 29
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.44813500000001,
+          34.0463986
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Lakewood",
+        "Cases": 29
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.11719140000001,
+          33.8503463
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Lompoc",
+        "Cases": 29
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.4579409,
+          34.6391501
+        ]
+      },
+      "id": "06083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Winnetka",
+        "Cases": 29
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.57093400000001,
+          34.2058826
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Oceanside",
+        "Cases": 29
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3794834,
+          33.1958696
+        ]
+      },
+      "id": "06073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Rancho Palos Verdes",
+        "Cases": 28
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3707683,
+          33.7483311
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Rancho Cucamonga",
+        "Cases": 28
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5751735,
+          34.1033192
+        ]
+      },
+      "id": "06071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Florence-Firestone",
+        "Cases": 28
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2433068,
+          33.9674263
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Exposition Park",
+        "Cases": 28
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.28721058194557,
+          34.01365405
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Spring Valley",
+        "Cases": 27
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9668617593562,
+          32.729639500000005
+        ]
+      },
+      "id": "06073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Granada Hills",
+        "Cases": 27
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.5174342,
+          34.26615579999999
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Encinitas",
+        "Cases": 27
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2919818,
+          33.0369867
+        ]
+      },
+      "id": "06073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Del Rey",
+        "Cases": 27
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4243437,
+          33.9896527
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Orange",
+        "Cases": 27
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8503088,
+          33.787256799999994
+        ]
+      },
+      "id": "06059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "West Vernon",
+        "Cases": 27
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22525,
+          34.007135
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Escondido",
+        "Cases": 27
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.08148490000002,
+          33.1216751
+        ]
+      },
+      "id": "06073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Westwood",
+        "Cases": 27
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.43994479999999,
+          34.066894700000006
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Redlands",
+        "Cases": 27
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1888961,
+          34.055735
+        ]
+      },
+      "id": "06071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Carthay",
+        "Cases": 26
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3672997,
+          34.061121299999996
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Culver City",
+        "Cases": 26
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3964665,
+          34.021122399999996
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Huntington Park",
+        "Cases": 26
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21203429999998,
+          33.982704299999995
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "San Pedro",
+        "Cases": 26
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2922934,
+          33.7358518
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Pacific Palisades",
+        "Cases": 26
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.5264706,
+          34.0480643
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Yorba Linda",
+        "Cases": 26
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8249705,
+          33.8901096
+        ]
+      },
+      "id": "06059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Venice",
+        "Cases": 25
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4668875,
+          33.995044
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Buena Park",
+        "Cases": 25
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9962165,
+          33.870413
+        ]
+      },
+      "id": "06059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Mar Vista",
+        "Cases": 25
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.43916409999999,
+          34.0037605
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Eastvale",
+        "Cases": 25
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.55984440000002,
+          33.9766799
+        ]
+      },
+      "id": "06065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Altadena",
+        "Cases": 25
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.13523290000002,
+          34.1863161
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Lake Balboa",
+        "Cases": 25
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.49523600143313,
+          34.1811656
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Beverly Crest",
+        "Cases": 25
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.43226070000001,
+          34.1167701
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Temple-Beaudry",
+        "Cases": 24
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.25125290000001,
+          34.062884600000004
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Westchester",
+        "Cases": 24
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.40004679999998,
+          33.9540977
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Chatsworth",
+        "Cases": 24
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.6023247,
+          34.2595715
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Central",
+        "Cases": 24
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.98293020000001,
+          33.928943100000005
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Pomona",
+        "Cases": 24
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.75174960000001,
+          34.05538129999999
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Wilshire Center",
+        "Cases": 23
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.43277116196552,
+          34.06151465
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Century City",
+        "Cases": 23
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4147267,
+          34.057426299999996
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Whittier",
+        "Cases": 23
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0308396,
+          33.9708782
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Paramount",
+        "Cases": 23
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.17100500000001,
+          33.898917
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Crestview",
+        "Cases": 23
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1005125,
+          34.6944191
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Northridge",
+        "Cases": 23
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.53693159999999,
+          34.2345615
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Palos Verdes Estates",
+        "Cases": 23
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.40181299999999,
+          33.7872386
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "North Hills",
+        "Cases": 22
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4854081,
+          34.2429575
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Mission Viejo",
+        "Cases": 22
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.659405,
+          33.5965685
+        ]
+      },
+      "id": "06059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "South Park",
+        "Cases": 22
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2697722,
+          33.9959019
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Athens-Westmont",
+        "Cases": 22
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "id": "00000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "San Bernardino",
+        "Cases": 22
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2897652,
+          34.1083449
+        ]
+      },
+      "id": "06071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "La Quinta",
+        "Cases": 22
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.27770251129586,
+          33.66365425
+        ]
+      },
+      "id": "06065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Coachella",
+        "Cases": 21
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.15327749528778,
+          33.68656595
+        ]
+      },
+      "id": "06065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Garden Grove",
+        "Cases": 21
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9463717,
+          33.7746292
+        ]
+      },
+      "id": "06059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Cathedral City",
+        "Cases": 21
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.46687024271161,
+          33.822998049999995
+        ]
+      },
+      "id": "06065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Pico-Union",
+        "Cases": 21
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.28789420000001,
+          34.0465669
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Alhambra",
+        "Cases": 21
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.12706000000001,
+          34.093042
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Mid-city",
+        "Cases": 21
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3603703,
+          34.0415271
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Ventura",
+        "Cases": 21
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.29560423163716,
+          34.3435092
+        ]
+      },
+      "id": "06111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Valley Glen",
+        "Cases": 21
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.41386659999999,
+          34.182637899999996
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Vernon Central",
+        "Cases": 21
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22525,
+          34.007135
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Eagle Rock",
+        "Cases": 21
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20767959999999,
+          34.1366877
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "West Adams",
+        "Cases": 21
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.35248329999999,
+          34.0294356
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Studio City",
+        "Cases": 21
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.39618770000001,
+          34.148398900000004
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Laguna Niguel",
+        "Cases": 21
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.70755259999999,
+          33.5225261
+        ]
+      },
+      "id": "06059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Porter Ranch",
+        "Cases": 21
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.56127140000001,
+          34.2818164
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Bell",
+        "Cases": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1866361,
+          33.9747806
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Cerritos",
+        "Cases": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.05393229999999,
+          33.8644291
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Calabasas",
+        "Cases": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.6440973,
+          34.144664299999995
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Baldwin Hills",
+        "Cases": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.33707093083645,
+          34.01098865
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "West Carson",
+        "Cases": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.29257220000001,
+          33.8216836
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "South Carthay",
+        "Cases": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.37341090000001,
+          34.056121399999995
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Lake Elsinore",
+        "Cases": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3272615,
+          33.668077200000006
+        ]
+      },
+      "id": "06065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Orcutt",
+        "Cases": 19
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.4366904,
+          34.8650717
+        ]
+      },
+      "id": "06083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Placentia",
+        "Cases": 19
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8617337,
+          33.8714814
+        ]
+      },
+      "id": "06059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Fullerton",
+        "Cases": 19
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9294165,
+          33.870821500000005
+        ]
+      },
+      "id": "06059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Downtown",
+        "Cases": 19
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.24767320000001,
+          34.0428494
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Los Feliz",
+        "Cases": 19
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2889236409372,
+          34.1100408
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Wilmington",
+        "Cases": 19
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.26257109999999,
+          33.780018
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Highland Park",
+        "Cases": 19
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1969828,
+          34.1099469
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Banning",
+        "Cases": 19
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.875289,
+          33.9255685
+        ]
+      },
+      "id": "06065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Harbor City",
+        "Cases": 19
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.30047169999999,
+          33.797282200000005
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Ontario",
+        "Cases": 19
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6484304,
+          34.065846
+        ]
+      },
+      "id": "06071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Cypress",
+        "Cases": 18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0399368,
+          33.8248235
+        ]
+      },
+      "id": "06059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "El Monte",
+        "Cases": 18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.036849,
+          34.0751571
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Costa Mesa",
+        "Cases": 18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.90331699999999,
+          33.6633386
+        ]
+      },
+      "id": "06059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "El Sereno",
+        "Cases": 18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.17784950000001,
+          34.0811213
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Rancho Mirage",
+        "Cases": 18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.4228596,
+          33.763346000000006
+        ]
+      },
+      "id": "06065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Agoura Hills",
+        "Cases": 18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.76570420000002,
+          34.147909999999996
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Harbor Gateway",
+        "Cases": 18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.29921979999999,
+          33.8542249
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Bel Air",
+        "Cases": 18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4598811,
+          34.0988833
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "West Hills",
+        "Cases": 18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.645476,
+          34.2032325
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Covina",
+        "Cases": 18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8891164,
+          34.0877926
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "National City",
+        "Cases": 18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0991967,
+          32.6781085
+        ]
+      },
+      "id": "06073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "La Mesa",
+        "Cases": 18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.02308390000002,
+          32.7678288
+        ]
+      },
+      "id": "06073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Sun Valley",
+        "Cases": 18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.37035759999999,
+          34.2175042
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Hacienda Heights",
+        "Cases": 17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.96867549999999,
+          33.993067700000005
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Century Palms/Cove",
+        "Cases": 17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "id": "00000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Beverlywood",
+        "Cases": 17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.39503799999999,
+          34.0466335
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Leimert Park",
+        "Cases": 17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.33206270000001,
+          34.007702
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Miracle Mile",
+        "Cases": 17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "id": "00000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Montebello",
+        "Cases": 17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.111975,
+          34.0159398
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Hermosa Beach",
+        "Cases": 17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.39591000000001,
+          33.86428
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Vista",
+        "Cases": 17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2425355,
+          33.2000368
+        ]
+      },
+      "id": "06073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "San Marcos",
+        "Cases": 17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1661449,
+          33.1433723
+        ]
+      },
+      "id": "06073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "East Hollywood",
+        "Cases": 16
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2966254,
+          34.0904277
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Hemet",
+        "Cases": 16
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.03578886849186,
+          33.778562550000004
+        ]
+      },
+      "id": "06065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Beaumont",
+        "Cases": 16
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.977248,
+          33.929460600000006
+        ]
+      },
+      "id": "06065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "San Juan Capistrano",
+        "Cases": 16
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.66255090000001,
+          33.5016932
+        ]
+      },
+      "id": "06059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Lake Forest",
+        "Cases": 16
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6859213,
+          33.6469261
+        ]
+      },
+      "id": "06059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Little Armenia",
+        "Cases": 16
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.30449660000001,
+          34.0981716
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Little Bangladesh",
+        "Cases": 16
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "id": "00000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Harvard Park",
+        "Cases": 16
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.30462279999999,
+          33.9839471
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "University Park",
+        "Cases": 16
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2839493,
+          34.027449
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "La Mirada",
+        "Cases": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0107092,
+          33.906097100000004
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "South Whittier",
+        "Cases": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.03478270000001,
+          33.9435081
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Cudahy",
+        "Cases": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1835395,
+          33.9620584
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Santee",
+        "Cases": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.97391670000002,
+          32.8383828
+        ]
+      },
+      "id": "06073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Highland",
+        "Cases": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2086513,
+          34.1283442
+        ]
+      },
+      "id": "06071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Chino Hills",
+        "Cases": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.760056,
+          33.992680299999996
+        ]
+      },
+      "id": "06071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Arleta",
+        "Cases": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4322047,
+          34.2413266
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "North County",
+        "Cases": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7026673,
+          34.4221319
+        ]
+      },
+      "id": "06083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Wildomar",
+        "Cases": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.25605451906164,
+          33.61603035
+        ]
+      },
+      "id": "06065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Lennox",
+        "Cases": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.35166969999999,
+          33.9391385
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Maywood",
+        "Cases": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.185349,
+          33.9866807
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Tustin",
+        "Cases": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.82616599999999,
+          33.7458511
+        ]
+      },
+      "id": "06059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Monterey Park",
+        "Cases": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.129807,
+          34.051522
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Watts",
+        "Cases": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.24284850000001,
+          33.9405674
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Rancho Santa Fe",
+        "Cases": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.19815158464623,
+          33.024194949999995
+        ]
+      },
+      "id": "06073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Moorpark",
+        "Cases": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8820414,
+          34.285558
+        ]
+      },
+      "id": "06111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Arcadia",
+        "Cases": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0401497,
+          34.136207500000005
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Upland",
+        "Cases": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.64838759999999,
+          34.09751
+        ]
+      },
+      "id": "06071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Hyde Park",
+        "Cases": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3306308,
+          33.9805691
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Unknown",
+        "Cases": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2897652,
+          34.1083449
+        ]
+      },
+      "id": "06071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "La Canada Flintridge",
+        "Cases": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2005236,
+          34.1998302
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Glendora",
+        "Cases": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.86533899999999,
+          34.136118700000004
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Vermont Vista",
+        "Cases": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2858138,
+          33.9419475
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Rialto",
+        "Cases": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.37032350000001,
+          34.1064001
+        ]
+      },
+      "id": "06071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Poway",
+        "Cases": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0358646,
+          32.9628234
+        ]
+      },
+      "id": "06073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Sunland",
+        "Cases": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3023,
+          34.266946600000004
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Lemon Grove",
+        "Cases": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0314172,
+          32.7425516
+        ]
+      },
+      "id": "06073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Azusa",
+        "Cases": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.90560459999999,
+          34.1338751
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Chino",
+        "Cases": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.690075,
+          34.013356099999996
+        ]
+      },
+      "id": "06071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Adams-Normandie",
+        "Cases": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.30024660000001,
+          34.0317877
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "La Habra",
+        "Cases": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.944777,
+          33.933015600000004
+        ]
+      },
+      "id": "06059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Lawndale",
+        "Cases": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3531991,
+          33.8885217
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Country Club Park",
+        "Cases": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3211871,
+          34.050289
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "French Valley",
+        "Cases": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.10917169999999,
+          33.5994102
+        ]
+      },
+      "id": "06065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Fountain Valley",
+        "Cases": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.96273490000002,
+          33.7038145
+        ]
+      },
+      "id": "06059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "View Park/Windsor Hills",
+        "Cases": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3526102,
+          33.9957306
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "West Covina",
+        "Cases": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.93895259999998,
+          34.0686208
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Diamond Bar",
+        "Cases": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.81033670000001,
+          34.028622600000006
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Vermont Knolls",
+        "Cases": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.29167,
+          33.9668188
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Willowbrook",
+        "Cases": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2343933,
+          33.918786299999994
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Wholesale District",
+        "Cases": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2354342,
+          34.0365749
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Bell Gardens",
+        "Cases": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1503953,
+          33.9694561
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Mission Hills",
+        "Cases": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4670285,
+          34.257224900000004
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "La Puente",
+        "Cases": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.95036770000002,
+          34.01979
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Victoria Park",
+        "Cases": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3307729,
+          34.046688700000004
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Jurupa Valley",
+        "Cases": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4515754,
+          33.9798472
+        ]
+      },
+      "id": "06065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Lincoln Heights",
+        "Cases": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21174369999999,
+          34.0736656
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Monrovia",
+        "Cases": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0014517,
+          34.1483499
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Dana Point",
+        "Cases": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.69810749999999,
+          33.4669721
+        ]
+      },
+      "id": "06059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Baldwin Park",
+        "Cases": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.96117609999999,
+          34.0854739
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Covina",
+        "Cases": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8891164,
+          34.0877926
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Lakeview Terrace",
+        "Cases": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.89862509999999,
+          34.139661700000005
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "South County",
+        "Cases": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7026673,
+          34.4221319
+        ]
+      },
+      "id": "06083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Victorville",
+        "Cases": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2911565,
+          34.536106700000005
+        ]
+      },
+      "id": "06071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Green Meadows",
+        "Cases": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.26299679999998,
+          33.9409877
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Ladera Heights",
+        "Cases": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.37535430000001,
+          33.994179200000005
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Cheviot Hills",
+        "Cases": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4098875,
+          34.0405878
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "South Pasadena",
+        "Cases": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1478291,
+          34.113306200000004
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Cloverdale/Cochran",
+        "Cases": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "id": "00000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Westminster",
+        "Cases": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.98590540000001,
+          33.7578725
+        ]
+      },
+      "id": "06059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Tujunga",
+        "Cases": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2884105,
+          34.252225
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "San Gabriel",
+        "Cases": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1086041,
+          34.0991325
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Echo Park",
+        "Cases": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2567824,
+          34.0779819
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "San Dimas",
+        "Cases": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8067257,
+          34.1066756
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "San Fernando",
+        "Cases": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.437652,
+          34.28497
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Goleta Valley & Gaviota",
+        "Cases": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "id": "00000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Temple City",
+        "Cases": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.05775679999999,
+          34.1082994
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Loma Linda",
+        "Cases": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.25204775,
+          34.075626
+        ]
+      },
+      "id": "06071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Crenshaw District",
+        "Cases": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3193493,
+          34.0612838
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Harvard Heights",
+        "Cases": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3054828,
+          34.047110499999995
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Aliso Viejo",
+        "Cases": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7258122,
+          33.576137599999996
+        ]
+      },
+      "id": "06059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Oak Park",
+        "Cases": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.7619719,
+          34.1792025
+        ]
+      },
+      "id": "06111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Lakeside",
+        "Cases": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.89600133970856,
+          32.85041
+        ]
+      },
+      "id": "06073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Hesperia",
+        "Cases": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3008784,
+          34.4263886
+        ]
+      },
+      "id": "06071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Lomita",
+        "Cases": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3195014,
+          33.8036545
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Rosemead",
+        "Cases": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.08797630000001,
+          34.0676169
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "El Sobrante",
+        "Cases": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2949894,
+          37.977447600000005
+        ]
+      },
+      "id": "06013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Rolling Hills Estates",
+        "Cases": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3581284,
+          33.787794299999995
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "West Whittier/Los Nietos",
+        "Cases": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.03770525277784,
+          33.97401095
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Historic Filipinotown",
+        "Cases": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "id": "00000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Malibu",
+        "Cases": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.689423,
+          34.035591
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Indian Wells",
+        "Cases": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.3383034,
+          33.7217965
+        ]
+      },
+      "id": "06065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Colton",
+        "Cases": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3136547,
+          34.0739016
+        ]
+      },
+      "id": "06071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Mt. Washington",
+        "Cases": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22110690000001,
+          34.0988396
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Canyon Country",
+        "Cases": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4720281,
+          34.42332929999999
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Rowland Heights",
+        "Cases": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9053395,
+          33.976123799999996
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Westlake",
+        "Cases": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.864731,
+          34.124907
+        ]
+      },
+      "id": "06111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "San Jacinto",
+        "Cases": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.95890859999999,
+          33.7839664
+        ]
+      },
+      "id": "06065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Walnut",
+        "Cases": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.86533859999999,
+          34.020289399999996
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Ladera Ranch",
+        "Cases": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.63854009999999,
+          33.551016499999996
+        ]
+      },
+      "id": "06059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Bonita",
+        "Cases": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.01596176077473,
+          32.664798
+        ]
+      },
+      "id": "06073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Playa Vista",
+        "Cases": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.41818149999999,
+          33.9759574
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Park La Brea",
+        "Cases": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.35523629999999,
+          34.067401600000004
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Walnut Park",
+        "Cases": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2223503,
+          33.968107
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Ramona",
+        "Cases": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.8680821,
+          33.041711199999995
+        ]
+      },
+      "id": "06073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Gramercy Place",
+        "Cases": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.31354640000002,
+          33.8677941
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "El Segundo",
+        "Cases": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4156337,
+          33.917028
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "La Verne",
+        "Cases": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7678355,
+          34.10084260000001
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Rancho Park",
+        "Cases": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.42526320604608,
+          34.034446100000004
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Laguna Hills",
+        "Cases": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.68820670000001,
+          33.5948758
+        ]
+      },
+      "id": "06059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Stevenson Ranch",
+        "Cases": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.5826635,
+          34.3864721
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Desert Hot Springs",
+        "Cases": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.5016784,
+          33.961124
+        ]
+      },
+      "id": "06065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Del Mar",
+        "Cases": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2653146,
+          32.9594891
+        ]
+      },
+      "id": "06073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Rancho Santa Margarita",
+        "Cases": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6029341,
+          33.6408845
+        ]
+      },
+      "id": "06059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Toluca Lake",
+        "Cases": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.34909242125984,
+          34.14678565
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "East Rancho Dominguez",
+        "Cases": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21064720000001,
+          33.859592
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Vermont Square",
+        "Cases": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3002125,
+          34.0019449
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Atwater Village",
+        "Cases": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.26239240000001,
+          34.118697499999996
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "La Palma",
+        "Cases": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.04673059999999,
+          33.846404
+        ]
+      },
+      "id": "06059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Barstow",
+        "Cases": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0172077,
+          34.8957684
+        ]
+      },
+      "id": "06071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Valinda",
+        "Cases": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.93355898556877,
+          34.0384785
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Marina Peninsula",
+        "Cases": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.12271149597164,
+          33.74871265
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Fallbrook",
+        "Cases": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2511466,
+          33.3764196
+        ]
+      },
+      "id": "06073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Claremont",
+        "Cases": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.71977849999999,
+          34.0966764
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Castaic",
+        "Cases": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.6228656,
+          34.488882200000006
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "La Crescenta-Montrose",
+        "Cases": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2299754,
+          34.1969689
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "San Marino",
+        "Cases": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1057394,
+          34.1215947
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Trabuco Canyon",
+        "Cases": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.58938,
+          33.6626232
+        ]
+      },
+      "id": "06059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Lafayette Square",
+        "Cases": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "id": "00000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Marina del Rey",
+        "Cases": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4491903,
+          33.97765020000001
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Santa Monica Mountains",
+        "Cases": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "id": "00000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Elysian Park",
+        "Cases": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23862040000002,
+          34.0774343
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "South San Gabriel",
+        "Cases": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.09034650000001,
+          34.06251029999999
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Santa Ynez Valley",
+        "Cases": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1046774214973,
+          34.608637
+        ]
+      },
+      "id": "06083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Thai Town",
+        "Cases": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3048616,
+          34.1018533
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Shadow Hills",
+        "Cases": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3517463,
+          34.2619469
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Solana Beach",
+        "Cases": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2691316,
+          32.9905597
+        ]
+      },
+      "id": "06073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Newbury Park",
+        "Cases": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.91183020000001,
+          34.183671000000004
+        ]
+      },
+      "id": "06111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Brea",
+        "Cases": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.88885570000001,
+          33.917044399999995
+        ]
+      },
+      "id": "06059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Goleta",
+        "Cases": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8276389,
+          34.4358295
+        ]
+      },
+      "id": "06083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Coronado",
+        "Cases": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1766947,
+          32.691519899999996
+        ]
+      },
+      "id": "06073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Woodcrest",
+        "Cases": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.33350222409193,
+          33.877202600000004
+        ]
+      },
+      "id": "06065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Ojai",
+        "Cases": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.24288899999999,
+          34.448049499999996
+        ]
+      },
+      "id": "06111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Norco",
+        "Cases": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.55089009999999,
+          33.9323307
+        ]
+      },
+      "id": "06065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Alta Loma",
+        "Cases": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.59857749999999,
+          34.122887
+        ]
+      },
+      "id": "06071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Apple Valley",
+        "Cases": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.18587590000001,
+          34.5008311
+        ]
+      },
+      "id": "06071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Mead Valley",
+        "Cases": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.29615120000001,
+          33.8333516
+        ]
+      },
+      "id": "06065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Montclair",
+        "Cases": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.68977759999999,
+          34.0775104
+        ]
+      },
+      "id": "06071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Valley Center",
+        "Cases": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.02912997949079,
+          33.226192999999995
+        ]
+      },
+      "id": "06073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Canyon Lake",
+        "Cases": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.26261509999999,
+          33.683653899999996
+        ]
+      },
+      "id": "06065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Imperial Beach",
+        "Cases": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.11308490000002,
+          32.58394439999999
+        ]
+      },
+      "id": "06073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Seal Beach",
+        "Cases": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1055926,
+          33.7423967
+        ]
+      },
+      "id": "06059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Adelanto",
+        "Cases": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.40921499999999,
+          34.582769899999995
+        ]
+      },
+      "id": "06071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Anza",
+        "Cases": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.67457009999998,
+          33.5559483
+        ]
+      },
+      "id": "06065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Desert Palms",
+        "Cases": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.293411,
+          33.7722416
+        ]
+      },
+      "id": "06065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Big Bear Lake",
+        "Cases": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.91018079999999,
+          34.244058700000004
+        ]
+      },
+      "id": "06071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Bloomington",
+        "Cases": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.40081372327542,
+          34.060709
+        ]
+      },
+      "id": "06071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Mentone",
+        "Cases": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.10960647472359,
+          34.058840000000004
+        ]
+      },
+      "id": "06071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Santa Paula",
+        "Cases": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.05927050000001,
+          34.3541659
+        ]
+      },
+      "id": "06111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Calimesa",
+        "Cases": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0619774,
+          34.003904399999996
+        ]
+      },
+      "id": "06065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Mecca",
+        "Cases": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.06970822122544,
+          33.5511969
+        ]
+      },
+      "id": "06065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Bermuda Dunes",
+        "Cases": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2863072,
+          33.7438202
+        ]
+      },
+      "id": "06065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Blythe",
+        "Cases": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.59375370000001,
+          33.61347670000001
+        ]
+      },
+      "id": "06065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Good Hope",
+        "Cases": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2669825,
+          33.764741799999996
+        ]
+      },
+      "id": "06065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Nuevo",
+        "Cases": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.13956015339623,
+          33.8056345
+        ]
+      },
+      "id": "06065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Lake Sherwood",
+        "Cases": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.87489587697777,
+          34.13705515
+        ]
+      },
+      "id": "06111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Running Springs",
+        "Cases": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.12487761192112,
+          34.2124412
+        ]
+      },
+      "id": "06071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Pauma Valley",
+        "Cases": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.98141670000001,
+          33.3033679
+        ]
+      },
+      "id": "06073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Port Hueneme",
+        "Cases": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.1951074,
+          34.147782899999996
+        ]
+      },
+      "id": "06111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Joshua Tree",
+        "Cases": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.32093491214891,
+          34.12652620000001
+        ]
+      },
+      "id": "06071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Ranchita",
+        "Cases": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.5166835,
+          33.2100397
+        ]
+      },
+      "id": "06073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Desert Edge",
+        "Cases": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.558199,
+          34.793178999999995
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Big Bear City",
+        "Cases": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.84859785319149,
+          34.267886
+        ]
+      },
+      "id": "06071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Blue Jay",
+        "Cases": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.210297,
+          34.2460204
+        ]
+      },
+      "id": "06071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Mesa Verde",
+        "Cases": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.7310717,
+          33.6058577
+        ]
+      },
+      "id": "06065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "East Hemet",
+        "Cases": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9390169337224,
+          33.7386312
+        ]
+      },
+      "id": "06065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Yucca Valley",
+        "Cases": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.4140676,
+          34.12346289999999
+        ]
+      },
+      "id": "06071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Oasis",
+        "Cases": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.09889220000001,
+          33.465863
+        ]
+      },
+      "id": "06065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Thermal",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.13944850000001,
+          33.6403013
+        ]
+      },
+      "id": "06065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Meadowbrook",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.25698729999999,
+          33.637354200000004
+        ]
+      },
+      "id": "06065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Idyllwild-Pine Cove",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.72377802857142,
+          33.7435011
+        ]
+      },
+      "id": "06065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Home Gardens",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5133522182106,
+          33.880832700000006
+        ]
+      },
+      "id": "06065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Green Acres",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.25347505890717,
+          33.8995991
+        ]
+      },
+      "id": "06065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "El Cerrito",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.52079778811958,
+          33.8410146
+        ]
+      },
+      "id": "06065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Cherry Valley",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.97058444015579,
+          33.97956550000001
+        ]
+      },
+      "id": "06065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Isla Vista",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.86151310000001,
+          34.413380100000005
+        ]
+      },
+      "id": "06083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Jamul",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.87613470000001,
+          32.7169988
+        ]
+      },
+      "id": "06073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Descanso",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.61585249999999,
+          32.8528287
+        ]
+      },
+      "id": "06073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Borrego Springs",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.37826820000001,
+          33.2566792
+        ]
+      },
+      "id": "06073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Alpine",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7601167124217,
+          32.843979000000004
+        ]
+      },
+      "id": "06073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Somis",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.9962124,
+          34.2572261
+        ]
+      },
+      "id": "06111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Temescal Valley",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48532309999999,
+          33.762796
+        ]
+      },
+      "id": "06065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Indio Hills",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.23139579999999,
+          33.831128
+        ]
+      },
+      "id": "06065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Thousand Palms",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.39358,
+          33.8217125
+        ]
+      },
+      "id": "06065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Warm Springs",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.263931,
+          34.1072339
+        ]
+      },
+      "id": "06071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Santa Rosa Valley",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "id": "00000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Piru",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.7927456,
+          34.4156137
+        ]
+      },
+      "id": "06111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Oak View",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.29989457464468,
+          34.397628999999995
+        ]
+      },
+      "id": "06111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Lakeland Village",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.34442209999999,
+          33.6367576
+        ]
+      },
+      "id": "06065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Stanton",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.99510059728792,
+          33.79410005
+        ]
+      },
+      "id": "06059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Crestline",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.29389561188812,
+          34.2495525
+        ]
+      },
+      "id": "06071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Grand Terrace",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3136544,
+          34.0339031
+        ]
+      },
+      "id": "06071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Oak Hills",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.34060149999999,
+          34.399722499999996
+        ]
+      },
+      "id": "06071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Phelan",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.57250259999998,
+          34.426297999999996
+        ]
+      },
+      "id": "06071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Rimforest",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2250419,
+          34.2297292
+        ]
+      },
+      "id": "06071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Wrightwood",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.62759983903358,
+          34.3583535
+        ]
+      },
+      "id": "06071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "View Heights",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.14176172581024,
+          34.14300789999999
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Valencia",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.56103780000001,
+          34.413819000000004
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Twin Lakes/Oat Mountain",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.60147690000001,
+          34.2780578
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Sun Village",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3800253,
+          34.224533
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "St Elmo Village",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "id": "00000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "South El Monte",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.04673390000002,
+          34.0519548
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Signal Hill",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.168259,
+          33.804826
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Sierra Madre",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0528456,
+          34.1616729
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Saugus",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.5168257,
+          34.4493489
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Santa Fe Springs",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.06914990000001,
+          33.9480787
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Santa Catalina Island",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.42392875335275,
+          33.38890375
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Rosewood",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.36091090000002,
+          34.080287299999995
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Rolling Hills",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.34966229999999,
+          33.7668041
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Reynier Village",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "id": "00000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Reseda Ranch",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.53426499999999,
+          34.285475500000004
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Regent Square",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.44655209999999,
+          34.0615961
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Acton",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1868378638664,
+          34.48074149999999
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Quartz Hill",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2181308,
+          34.6452645
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Playa Del Rey",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4367496,
+          33.9550828
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Palisades Highlands",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "id": "00000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Northeast San Gabriel",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1086041,
+          34.0991325
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Wiseburn",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.37505139999999,
+          33.9131734
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "North Whittier",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0668338,
+          33.9995929
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Monrovia",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0014517,
+          34.1483499
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Mandeville Canyon",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.49498009999999,
+          34.0610395
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Manchester Square",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.31337749999999,
+          33.966374
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Longwood",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.42639527354078,
+          33.973537
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Littlerock/Pearblossom",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.98844600460268,
+          34.520798799999994
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Little Tokyo",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.241181436601,
+          34.04821679999999
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Lake Manor",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "id": "00000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Lake Los Angeles",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.84039551397726,
+          34.6127395
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "La Verne",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7678355,
+          34.10084260000001
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "La Rambla",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.28434879999999,
+          34.1889019
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Jefferson Park",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.32245970000001,
+          34.0296173
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Industry",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.88611057547772,
+          33.996821000000004
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Hawthorne",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.34832560000001,
+          33.9188589
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Hawaiian Gardens",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0743137,
+          33.8284787
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Whittier",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0308396,
+          33.9708782
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Figueroa Park Square",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "id": "00000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Westlake Village",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8061794,
+          34.1460234
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Faircrest Heights",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "id": "00000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Elysian Valley",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.24203259999999,
+          34.095912799999994
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "El Camino Village",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7802763,
+          34.0759648
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "East Whittier",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9889525,
+          33.924457700000005
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "East La Mirada",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9889525,
+          33.924457700000005
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Duarte",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.97728729999999,
+          34.1394513
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "West Rancho Dominguez",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21064720000001,
+          33.859592
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Del Aire",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.37470230000001,
+          33.9232739
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "West Puente Valley",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.96462933942223,
+          34.049858
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Covina (Charter Oak)",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.83665649999999,
+          34.0994214
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Chinatown",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23586759999999,
+          34.0638402
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Cadillac-Corning",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "id": "00000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "West LA",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.32107450707359,
+          34.08626925
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Bassett",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.99673229999999,
+          34.049732299999995
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Azusa",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.90560459999999,
+          34.1338751
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Athens Village",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.27904939999999,
+          33.920407
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Artesia",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0796195,
+          33.8690197
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Alsace",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3476199,
+          33.9879995
+        ]
+      },
+      "id": "06037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "West Antelope Valley",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "id": "00000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Agua Dulce",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "id": "00000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Area": "Rancho Dominguez",
+        "Cases": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21064720000001,
+          33.859592
+        ]
+      },
+      "id": "06037"
+    }
+  ]
+}
